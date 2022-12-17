@@ -21,6 +21,7 @@
     "@nomicfoundation/hardhat-toolbox": "^1.0.2",
     "@openzeppelin/contracts": "^4.8.0",
     "dotenv": "^16.0.3",
+    "erc20permit": "^0.1.1",
     "hardhat": "^2.12.4",
     "hardhat-abi-exporter": "^2.10.1",
     "hardhat-contract-sizer": "^2.6.1",
