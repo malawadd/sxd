@@ -15,7 +15,7 @@ import "./MinOut.sol";
 contract FXD is ERC20Permit, Ownable {
     ISXD public immutable sxd;
 
-    constructor(ISXD sxd_) ERC20Permit("Stable XDC", "SXD") {
+    constructor(ISXD sxd_) ERC20Permit("Funding XDC", "FXD") {
         sxd = sxd_;
     }
 

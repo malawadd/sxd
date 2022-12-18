@@ -1,27 +1,82 @@
-// We require the Hardhat Runtime Environment explicitly here. This is optional
-// but useful for running the script in a standalone fashion through `node <script>`.
-//
-// You can also run a script with `npx hardhat run <script>`. If you do that, Hardhat
-// will compile your contracts, add the Hardhat Runtime Environment's members to the
-// global scope, and execute the script.
+
 const hre = require("hardhat");
 
 async function main() {
-  const currentTimestampInSeconds = Math.round(Date.now() / 1000);
-  const ONE_YEAR_IN_SECS = 365 * 24 * 60 * 60;
-  const unlockTime = currentTimestampInSeconds + ONE_YEAR_IN_SECS;
+  //constants
+  const e30 = '1000000000000000000000000000000'
+  const e18 = '1000000000000000000'
+  const chainlinkPrice = '2329700'// 8 dec places
+  const compoundPrice = '23999' // 6 dec places:
+  const usdXdcCumPrice0 = '2784275278277546624451305316303382174855535226'
+  const usdXdcCumPrice1 = '2639132666967530700283664103'
+  const wxdcAddress = '0xE99500AB4A413164DA49Af83B9824749059b46ce'
 
-  const lockedAmount = hre.ethers.utils.parseEther("1");
+  let wxdc, aggregator, anchoredView, usdcXdcPair
+  let  aggregatorAddress, anchoredViewAddress, usdcXdcPairAddress
 
-  const Lock = await hre.ethers.getContractFactory("Lock");
-  const lock = await Lock.deploy(unlockTime, { value: lockedAmount });
+  const usdcDecimals = 6
+  const xdcDecimals = 18 
+  const uniswapTokensInReverseOrder = true
+  
+  //deployment//
 
-  await lock.deployed();
+  // //aggregator//
+  // const Aggregator = await hre.ethers.getContractFactory("MockAggregatorV3");
+  // aggregator = await Aggregator.deploy();
+  // await aggregator.deployed();
+  // await aggregator.set(chainlinkPrice)
+  // aggregatorAddress = aggregator.address
+
+  // console.log(
+  //   `aggregator deployed to ${aggregator.address}`
+  // );
+
+  // //MockAnchoredView//
+  // const MockAnchoredView = await hre.ethers.getContractFactory("MockAnchoredView");
+  // anchoredView = await MockAnchoredView.deploy();
+  // await anchoredView.deployed();
+  // await anchoredView.set(compoundPrice)
+  // anchoredViewAddress = anchoredView.address
+
+  // console.log(
+  //   `anchoredView deployed to ${anchoredView.address}`
+  // );
+
+  //MockAnchoredView//
+  // const MockPair = await hre.ethers.getContractFactory("MockPair");
+  // usdcXdcPair = await MockPair.deploy();
+  // await usdcXdcPair.deployed();
+  // await usdcXdcPair.setCumulativePrices(usdXdcCumPrice0, usdXdcCumPrice1)
+  // usdcXdcPairAddress = usdcXdcPair.address
+
+  // console.log(
+  //   `usdcXdcPair deployed to ${usdcXdcPair.address}`
+  // );
+
+  //SXD//
+  const SXD = await hre.ethers.getContractFactory("SXD");
+  const sxd = await SXD.deploy('20000');
+    await sxd.deployed();
+  
+  const sxdAddress = sxd.address
 
   console.log(
-    `Lock with 1 ETH and unlock timestamp ${unlockTime} deployed to ${lock.address}`
+    `sxd deployed to ${sxd.address}`
   );
+  
 }
+//  //SXD//
+//   const SXD = await hre.ethers.getContractFactory("SXD");
+//   const sxd = await SXD.deploy('20000');
+//   await sxd.deployed();
+  
+//   const sxdAddress = sxd.address
+
+//   console.log(
+//     `sxd deployed to ${sxd.address}`
+//   );
+
+
 
 // We recommend this pattern to be able to use async/await everywhere
 // and properly handle errors.

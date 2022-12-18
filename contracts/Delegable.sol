@@ -30,7 +30,7 @@ contract Delegable {
                     "EIP712Domain(string name,string version,uint256 chainId,address verifyingContract)"
                 ),
                 keccak256(bytes("Yield")),
-                keccak256(bytes("1")),
+                keccak256(bytes("51")),
                 chainId,
                 address(this)
             )

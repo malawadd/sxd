@@ -2,37 +2,11 @@
 pragma solidity ^0.8.17;
 
 import "./SXDTemplate.sol";
-import "./ethereumOracles/MedianOracle.sol";
 
-contract SXD is SXDTemplate, MedianOracle {
-    uint256 private constant NUM_UNISWAP_PAIRS = 3;
+import "./oracles/TestOracle.sol";
 
-    constructor(
-        AggregatorV3Interface chainlinkAggregator,
-        UniswapAnchoredView compoundView,
-        IUniswapV2Pair uniswapPair,
-        uint256 uniswapToken0Decimals,
-        uint256 uniswapToken1Decimals,
-        bool uniswapTokensInReverseOrder
-    )
-        public
-        SXDTemplate()
-        MedianOracle(
-            chainlinkAggregator,
-            compoundView,
-            uniswapPair,
-            uniswapToken0Decimals,
-            uniswapToken1Decimals,
-            uniswapTokensInReverseOrder
-        )
-    {}
+contract SXD is SXDTemplate, TestOracle {
+    uint256 private constant NUM_UNISWAP_PAIRS = 1;
 
-    function cacheLatestPrice()
-        public
-        virtual
-        override(Oracle, MedianOracle)
-        returns (uint256 price)
-    {
-        price = super.cacheLatestPrice();
-    }
+    constructor(uint256 p) SXDTemplate() TestOracle(p) {}
 }

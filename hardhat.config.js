@@ -1,8 +1,15 @@
 require("@nomicfoundation/hardhat-toolbox");
-
+require("dotenv").config();
+require('hardhat-contract-sizer');
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   solidity: "0.8.17",
+  settings: {
+    optimizer: {
+      enabled: true,
+      runs: 500
+    }
+  },
   networks: {
     testnet: {
       url: 'https://erpc.apothem.network',
@@ -28,6 +35,13 @@ module.exports = {
       format: "minimal",
     
     }
-  ]
+  ],
+
+  // contractSizer: {
+  //   alphaSort: true,
+  //   disambiguatePaths: false,
+  //   runOnCompile: true,
+  //   strict: true,
+  // }
 
 };
