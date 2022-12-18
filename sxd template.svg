@@ -1,0 +1,1293 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1451pt" height="2623pt" viewBox="0.00 0.00 1451.11 2623.05">
+<g id="graph0" class="graph" transform="translate(108.93182206617973,2317.6460250140226) scale(0.8705505632961255)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-2619.05 1447.11,-2619.05 1447.11,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterSXDTemplate">
+
+<path fill="#445773" stroke="#445773" d="M20,-1649.05C20,-1649.05 1423.11,-1649.05 1423.11,-1649.05 1429.11,-1649.05 1435.11,-1655.05 1435.11,-1661.05 1435.11,-1661.05 1435.11,-2458.05 1435.11,-2458.05 1435.11,-2464.05 1429.11,-2470.05 1423.11,-2470.05 1423.11,-2470.05 20,-2470.05 20,-2470.05 14,-2470.05 8,-2464.05 8,-2458.05 8,-2458.05 8,-1661.05 8,-1661.05 8,-1655.05 14,-1649.05 20,-1649.05" style=""/>
+<text text-anchor="middle" x="721.56" y="-2453.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SXDTemplate</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterMinOut">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M212.2,-1510.05C212.2,-1510.05 377.53,-1510.05 377.53,-1510.05 383.53,-1510.05 389.53,-1516.05 389.53,-1522.05 389.53,-1522.05 389.53,-1629.05 389.53,-1629.05 389.53,-1635.05 383.53,-1641.05 377.53,-1641.05 377.53,-1641.05 212.2,-1641.05 212.2,-1641.05 206.2,-1641.05 200.2,-1635.05 200.2,-1629.05 200.2,-1629.05 200.2,-1522.05 200.2,-1522.05 200.2,-1516.05 206.2,-1510.05 212.2,-1510.05" style=""/>
+<text text-anchor="middle" x="294.86" y="-1624.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">MinOut</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterDelegable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M253.51,-1425.05C253.51,-1425.05 336.21,-1425.05 336.21,-1425.05 342.21,-1425.05 348.21,-1431.05 348.21,-1437.05 348.21,-1437.05 348.21,-1490.05 348.21,-1490.05 348.21,-1496.05 342.21,-1502.05 336.21,-1502.05 336.21,-1502.05 253.51,-1502.05 253.51,-1502.05 247.51,-1502.05 241.51,-1496.05 241.51,-1490.05 241.51,-1490.05 241.51,-1437.05 241.51,-1437.05 241.51,-1431.05 247.51,-1425.05 253.51,-1425.05" style=""/>
+<text text-anchor="middle" x="294.86" y="-1485.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Delegable</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterrawXdcInPool">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M535.24,-1564.05C535.24,-1564.05 608.24,-1564.05 608.24,-1564.05 614.24,-1564.05 620.24,-1570.05 620.24,-1576.05 620.24,-1576.05 620.24,-1629.05 620.24,-1629.05 620.24,-1635.05 614.24,-1641.05 608.24,-1641.05 608.24,-1641.05 535.24,-1641.05 535.24,-1641.05 529.24,-1641.05 523.24,-1635.05 523.24,-1629.05 523.24,-1629.05 523.24,-1576.05 523.24,-1576.05 523.24,-1570.05 529.24,-1564.05 535.24,-1564.05" style=""/>
+<text text-anchor="middle" x="571.74" y="-1624.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">rawXdcInPool</text>
+</g>
+<g id="clust5" class="cluster" data-name="clustersxdTotalSupply">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M793.91,-307.05C793.91,-307.05 892.74,-307.05 892.74,-307.05 898.74,-307.05 904.74,-313.05 904.74,-319.05 904.74,-319.05 904.74,-480.05 904.74,-480.05 904.74,-486.05 898.74,-492.05 892.74,-492.05 892.74,-492.05 793.91,-492.05 793.91,-492.05 787.91,-492.05 781.91,-486.05 781.91,-480.05 781.91,-480.05 781.91,-319.05 781.91,-319.05 781.91,-313.05 787.91,-307.05 793.91,-307.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-475.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">sxdTotalSupply</text>
+</g>
+<g id="clust6" class="cluster" data-name="clusterxdcInPool">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M780.5,-168.05C780.5,-168.05 906.15,-168.05 906.15,-168.05 912.15,-168.05 918.15,-174.05 918.15,-180.05 918.15,-180.05 918.15,-287.05 918.15,-287.05 918.15,-293.05 912.15,-299.05 906.15,-299.05 906.15,-299.05 780.5,-299.05 780.5,-299.05 774.5,-299.05 768.5,-293.05 768.5,-287.05 768.5,-287.05 768.5,-180.05 768.5,-180.05 768.5,-174.05 774.5,-168.05 780.5,-168.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-282.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">xdcInPool</text>
+</g>
+<g id="clust7" class="cluster" data-name="clusterto">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M523.44,-1373.05C523.44,-1373.05 619.03,-1373.05 619.03,-1373.05 625.03,-1373.05 631.03,-1379.05 631.03,-1385.05 631.03,-1385.05 631.03,-1438.05 631.03,-1438.05 631.03,-1444.05 625.03,-1450.05 619.03,-1450.05 619.03,-1450.05 523.44,-1450.05 523.44,-1450.05 517.44,-1450.05 511.44,-1444.05 511.44,-1438.05 511.44,-1438.05 511.44,-1385.05 511.44,-1385.05 511.44,-1379.05 517.44,-1373.05 523.44,-1373.05" style=""/>
+<text text-anchor="middle" x="571.24" y="-1433.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">to</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusterFXD">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M995.74,-46.05C995.74,-46.05 1098.88,-46.05 1098.88,-46.05 1104.88,-46.05 1110.88,-52.05 1110.88,-58.05 1110.88,-58.05 1110.88,-219.05 1110.88,-219.05 1110.88,-225.05 1104.88,-231.05 1098.88,-231.05 1098.88,-231.05 995.74,-231.05 995.74,-231.05 989.74,-231.05 983.74,-225.05 983.74,-219.05 983.74,-219.05 983.74,-58.05 983.74,-58.05 983.74,-52.05 989.74,-46.05 995.74,-46.05" style=""/>
+<text text-anchor="middle" x="1047.31" y="-214.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">FXD</text>
+</g>
+<g id="clust9" class="cluster" data-name="clusteroldAdjustment">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M806.32,-1564.05C806.32,-1564.05 881.32,-1564.05 881.32,-1564.05 887.32,-1564.05 893.32,-1570.05 893.32,-1576.05 893.32,-1576.05 893.32,-1629.05 893.32,-1629.05 893.32,-1635.05 887.32,-1641.05 881.32,-1641.05 881.32,-1641.05 806.32,-1641.05 806.32,-1641.05 800.32,-1641.05 794.32,-1635.05 794.32,-1629.05 794.32,-1629.05 794.32,-1576.05 794.32,-1576.05 794.32,-1570.05 800.32,-1564.05 806.32,-1564.05" style=""/>
+<text text-anchor="middle" x="843.82" y="-1624.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">oldAdjustment</text>
+</g>
+<g id="clust10" class="cluster" data-name="clusterxdcAmount">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M1336.63,-1564.05C1336.63,-1564.05 1415.08,-1564.05 1415.08,-1564.05 1421.08,-1564.05 1427.08,-1570.05 1427.08,-1576.05 1427.08,-1576.05 1427.08,-1629.05 1427.08,-1629.05 1427.08,-1635.05 1421.08,-1641.05 1415.08,-1641.05 1415.08,-1641.05 1336.63,-1641.05 1336.63,-1641.05 1330.63,-1641.05 1324.63,-1635.05 1324.63,-1629.05 1324.63,-1629.05 1324.63,-1576.05 1324.63,-1576.05 1324.63,-1570.05 1330.63,-1564.05 1336.63,-1564.05" style=""/>
+<text text-anchor="middle" x="1375.85" y="-1624.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">xdcAmount</text>
+</g>
+<g id="clust11" class="cluster" data-name="clustersxdAmount">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M1338.24,-1479.05C1338.24,-1479.05 1413.47,-1479.05 1413.47,-1479.05 1419.47,-1479.05 1425.47,-1485.05 1425.47,-1491.05 1425.47,-1491.05 1425.47,-1544.05 1425.47,-1544.05 1425.47,-1550.05 1419.47,-1556.05 1413.47,-1556.05 1413.47,-1556.05 1338.24,-1556.05 1338.24,-1556.05 1332.24,-1556.05 1326.24,-1550.05 1326.24,-1544.05 1326.24,-1544.05 1326.24,-1491.05 1326.24,-1491.05 1326.24,-1485.05 1332.24,-1479.05 1338.24,-1479.05" style=""/>
+<text text-anchor="middle" x="1375.85" y="-1539.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">sxdAmount</text>
+</g>
+<g id="clust12" class="cluster" data-name="clusterprice">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M984.48,-1456.05C984.48,-1456.05 1110.14,-1456.05 1110.14,-1456.05 1116.14,-1456.05 1122.14,-1462.05 1122.14,-1468.05 1122.14,-1468.05 1122.14,-1629.05 1122.14,-1629.05 1122.14,-1635.05 1116.14,-1641.05 1110.14,-1641.05 1110.14,-1641.05 984.48,-1641.05 984.48,-1641.05 978.48,-1641.05 972.48,-1635.05 972.48,-1629.05 972.48,-1629.05 972.48,-1468.05 972.48,-1468.05 972.48,-1462.05 978.48,-1456.05 984.48,-1456.05" style=""/>
+<text text-anchor="middle" x="1047.31" y="-1624.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">price</text>
+</g>
+<g id="clust13" class="cluster" data-name="clusterxdcIn">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M782.11,-1479.05C782.11,-1479.05 904.54,-1479.05 904.54,-1479.05 910.54,-1479.05 916.54,-1485.05 916.54,-1491.05 916.54,-1491.05 916.54,-1544.05 916.54,-1544.05 916.54,-1550.05 910.54,-1556.05 904.54,-1556.05 904.54,-1556.05 782.11,-1556.05 782.11,-1556.05 776.11,-1556.05 770.11,-1550.05 770.11,-1544.05 770.11,-1544.05 770.11,-1491.05 770.11,-1491.05 770.11,-1485.05 776.11,-1479.05 782.11,-1479.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-1539.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">xdcIn</text>
+</g>
+<g id="clust14" class="cluster" data-name="clusterxdcQty0">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M776.75,-1232.05C776.75,-1232.05 909.9,-1232.05 909.9,-1232.05 915.9,-1232.05 921.9,-1238.05 921.9,-1244.05 921.9,-1244.05 921.9,-1459.05 921.9,-1459.05 921.9,-1465.05 915.9,-1471.05 909.9,-1471.05 909.9,-1471.05 776.75,-1471.05 776.75,-1471.05 770.75,-1471.05 764.75,-1465.05 764.75,-1459.05 764.75,-1459.05 764.75,-1244.05 764.75,-1244.05 764.75,-1238.05 770.75,-1232.05 776.75,-1232.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-1454.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">xdcQty0</text>
+</g>
+<g id="clust15" class="cluster" data-name="clusterxdcQty1">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M782.11,-1093.05C782.11,-1093.05 904.54,-1093.05 904.54,-1093.05 910.54,-1093.05 916.54,-1099.05 916.54,-1105.05 916.54,-1105.05 916.54,-1212.05 916.54,-1212.05 916.54,-1218.05 910.54,-1224.05 904.54,-1224.05 904.54,-1224.05 782.11,-1224.05 782.11,-1224.05 776.11,-1224.05 770.11,-1218.05 770.11,-1212.05 770.11,-1212.05 770.11,-1105.05 770.11,-1105.05 770.11,-1099.05 776.11,-1093.05 782.11,-1093.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-1207.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">xdcQty1</text>
+</g>
+<g id="clust16" class="cluster" data-name="clusterintegralFirstPart">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M780.5,-1008.05C780.5,-1008.05 906.15,-1008.05 906.15,-1008.05 912.15,-1008.05 918.15,-1014.05 918.15,-1020.05 918.15,-1020.05 918.15,-1073.05 918.15,-1073.05 918.15,-1079.05 912.15,-1085.05 906.15,-1085.05 906.15,-1085.05 780.5,-1085.05 780.5,-1085.05 774.5,-1085.05 768.5,-1079.05 768.5,-1073.05 768.5,-1073.05 768.5,-1020.05 768.5,-1020.05 768.5,-1014.05 774.5,-1008.05 780.5,-1008.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-1068.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">integralFirstPart</text>
+</g>
+<g id="clust17" class="cluster" data-name="clustersxdQty0">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M764.95,-869.05C764.95,-869.05 921.7,-869.05 921.7,-869.05 927.7,-869.05 933.7,-875.05 933.7,-881.05 933.7,-881.05 933.7,-988.05 933.7,-988.05 933.7,-994.05 927.7,-1000.05 921.7,-1000.05 921.7,-1000.05 764.95,-1000.05 764.95,-1000.05 758.95,-1000.05 752.95,-994.05 752.95,-988.05 752.95,-988.05 752.95,-881.05 752.95,-881.05 752.95,-875.05 758.95,-869.05 764.95,-869.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-983.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">sxdQty0</text>
+</g>
+<g id="clust18" class="cluster" data-name="clustersxdPrice0">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M780.5,-784.05C780.5,-784.05 906.15,-784.05 906.15,-784.05 912.15,-784.05 918.15,-790.05 918.15,-796.05 918.15,-796.05 918.15,-849.05 918.15,-849.05 918.15,-855.05 912.15,-861.05 906.15,-861.05 906.15,-861.05 780.5,-861.05 780.5,-861.05 774.5,-861.05 768.5,-855.05 768.5,-849.05 768.5,-849.05 768.5,-796.05 768.5,-796.05 768.5,-790.05 774.5,-784.05 780.5,-784.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-844.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">sxdPrice0</text>
+</g>
+<g id="clust19" class="cluster" data-name="clusterWAD">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M1205.76,-1081.05C1205.76,-1081.05 1251.76,-1081.05 1251.76,-1081.05 1257.76,-1081.05 1263.76,-1087.05 1263.76,-1093.05 1263.76,-1093.05 1263.76,-1200.05 1263.76,-1200.05 1263.76,-1206.05 1257.76,-1212.05 1251.76,-1212.05 1251.76,-1212.05 1205.76,-1212.05 1205.76,-1212.05 1199.76,-1212.05 1193.76,-1206.05 1193.76,-1200.05 1193.76,-1200.05 1193.76,-1093.05 1193.76,-1093.05 1193.76,-1087.05 1199.76,-1081.05 1205.76,-1081.05" style=""/>
+<text text-anchor="middle" x="1228.76" y="-1195.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">WAD</text>
+</g>
+<g id="clust20" class="cluster" data-name="clustersxdQty1">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M793.91,-669.05C793.91,-669.05 892.74,-669.05 892.74,-669.05 898.74,-669.05 904.74,-675.05 904.74,-681.05 904.74,-681.05 904.74,-734.05 904.74,-734.05 904.74,-740.05 898.74,-746.05 892.74,-746.05 892.74,-746.05 793.91,-746.05 793.91,-746.05 787.91,-746.05 781.91,-740.05 781.91,-734.05 781.91,-734.05 781.91,-681.05 781.91,-681.05 781.91,-675.05 787.91,-669.05 793.91,-669.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-729.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">sxdQty1</text>
+</g>
+<g id="clust21" class="cluster" data-name="clusterfxdIn">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M780.5,-500.05C780.5,-500.05 906.15,-500.05 906.15,-500.05 912.15,-500.05 918.15,-506.05 918.15,-512.05 918.15,-512.05 918.15,-619.05 918.15,-619.05 918.15,-625.05 912.15,-631.05 906.15,-631.05 906.15,-631.05 780.5,-631.05 780.5,-631.05 774.5,-631.05 768.5,-625.05 768.5,-619.05 768.5,-619.05 768.5,-512.05 768.5,-512.05 768.5,-506.05 774.5,-500.05 780.5,-500.05" style=""/>
+<text text-anchor="middle" x="843.32" y="-614.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">fxdIn</text>
+</g>
+<g id="clust22" class="cluster" data-name="clusternumHalvings">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M1172.92,-1564.05C1172.92,-1564.05 1284.6,-1564.05 1284.6,-1564.05 1290.6,-1564.05 1296.6,-1570.05 1296.6,-1576.05 1296.6,-1576.05 1296.6,-1629.05 1296.6,-1629.05 1296.6,-1635.05 1290.6,-1641.05 1284.6,-1641.05 1284.6,-1641.05 1172.92,-1641.05 1172.92,-1641.05 1166.92,-1641.05 1160.92,-1635.05 1160.92,-1629.05 1160.92,-1629.05 1160.92,-1576.05 1160.92,-1576.05 1160.92,-1570.05 1166.92,-1564.05 1172.92,-1564.05" style=""/>
+<text text-anchor="middle" x="1228.76" y="-1624.45" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">numHalvings</text>
+</g>
+<g id="clust23" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="21.1,-2478.05 21.1,-2607.05 329.86,-2607.05 329.86,-2478.05 21.1,-2478.05" style=""/>
+<text text-anchor="middle" x="175.48" y="-2590.45" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- SXDTemplate.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="SXDTemplate.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="94.1" cy="-2313.05" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-2308.85" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- SXDTemplate.mint -->
+<g id="node2" class="node" pointer-events="visible" data-name="SXDTemplate.mint">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="94.1" cy="-2116.05" rx="28.99" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-2111.85" font-family="Times,serif" font-size="14.00" style="">mint</text>
+</g>
+<!-- SXDTemplate._mintSxd -->
+<g id="node9" class="node" pointer-events="visible" data-name="SXDTemplate._mintSxd">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-2099.05" rx="48.7" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-2094.85" font-family="Times,serif" font-size="14.00" style="">_mintSxd</text>
+</g>
+<!-- SXDTemplate.mint&#45;&gt;SXDTemplate._mintSxd -->
+<g id="edge1" class="edge" data-name="SXDTemplate.mint-&gt;SXDTemplate._mintSxd">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M124,-2113.58C152.48,-2111.15 196.87,-2107.35 233.13,-2104.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="233.39,-2107.74 243.06,-2103.4 232.8,-2100.76 233.39,-2107.74" style=""/>
+</g>
+<!-- SXDTemplate.burn -->
+<g id="node3" class="node" pointer-events="visible" data-name="SXDTemplate.burn">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="94.1" cy="-1900.05" rx="28.98" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-1895.85" font-family="Times,serif" font-size="14.00" style="">burn</text>
+</g>
+<!-- SXDTemplate._burnSXD -->
+<g id="node10" class="node" pointer-events="visible" data-name="SXDTemplate._burnSXD">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-1914.05" rx="52.77" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-1909.85" font-family="Times,serif" font-size="14.00" style="">_burnSXD</text>
+</g>
+<!-- SXDTemplate.burn&#45;&gt;SXDTemplate._burnSXD -->
+<g id="edge2" class="edge" data-name="SXDTemplate.burn-&gt;SXDTemplate._burnSXD">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M124,-1902.09C151.42,-1904.02 193.6,-1906.99 229.07,-1909.49" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="228.55,-1912.96 238.77,-1910.17 229.04,-1905.98 228.55,-1912.96" style=""/>
+</g>
+<!-- SXDTemplate.fund -->
+<g id="node4" class="node" pointer-events="visible" data-name="SXDTemplate.fund">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="94.1" cy="-2170.05" rx="28.98" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-2165.85" font-family="Times,serif" font-size="14.00" style="">fund</text>
+</g>
+<!-- SXDTemplate._fundFxd -->
+<g id="node11" class="node" pointer-events="visible" data-name="SXDTemplate._fundFxd">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-2153.05" rx="48.69" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-2148.85" font-family="Times,serif" font-size="14.00" style="">_fundFxd</text>
+</g>
+<!-- SXDTemplate.fund&#45;&gt;SXDTemplate._fundFxd -->
+<g id="edge3" class="edge" data-name="SXDTemplate.fund-&gt;SXDTemplate._fundFxd">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M124,-2167.58C152.48,-2165.15 196.87,-2161.35 233.13,-2158.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="233.39,-2161.74 243.06,-2157.4 232.8,-2154.76 233.39,-2161.74" style=""/>
+</g>
+<!-- SXDTemplate.defund -->
+<g id="node5" class="node" pointer-events="visible" data-name="SXDTemplate.defund">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="94.1" cy="-2008.05" rx="37.71" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-2003.85" font-family="Times,serif" font-size="14.00" style="">defund</text>
+</g>
+<!-- SXDTemplate._defundFxd -->
+<g id="node12" class="node" pointer-events="visible" data-name="SXDTemplate._defundFxd">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-2008.05" rx="57.92" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-2003.85" font-family="Times,serif" font-size="14.00" style="">_defundFxd</text>
+</g>
+<!-- SXDTemplate.defund&#45;&gt;SXDTemplate._defundFxd -->
+<g id="edge4" class="edge" data-name="SXDTemplate.defund-&gt;SXDTemplate._defundFxd">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M132.95,-2008.05C158.38,-2008.05 192.67,-2008.05 223.06,-2008.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="222.78,-2011.55 232.78,-2008.05 222.78,-2004.55 222.78,-2011.55" style=""/>
+</g>
+<!-- SXDTemplate.defundFromFXD -->
+<g id="node6" class="node" pointer-events="visible" data-name="SXDTemplate.defundFromFXD">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="94.1" cy="-1954.05" rx="78.2" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-1949.85" font-family="Times,serif" font-size="14.00" style="">defundFromFXD</text>
+</g>
+<!-- SXDTemplate.defundFromFXD&#45;&gt;SXDTemplate._defundFxd -->
+<g id="edge5" class="edge" data-name="SXDTemplate.defundFromFXD-&gt;SXDTemplate._defundFxd">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M147.84,-1968.38C175.17,-1975.81 208.58,-1984.88 236.54,-1992.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="235.48,-1995.82 246.04,-1995.06 237.31,-1989.06 235.48,-1995.82" style=""/>
+</g>
+<!-- SXDTemplate.&lt;Receive Ether&gt; -->
+<g id="node7" class="node" pointer-events="visible" data-name="SXDTemplate.&lt;Receive Ether&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="94.1" cy="-2062.05" rx="76.21" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-2057.85" font-family="Times,serif" font-size="14.00" style="">&lt;Receive Ether&gt;</text>
+</g>
+<!-- SXDTemplate.&lt;Receive Ether&gt;&#45;&gt;SXDTemplate._mintSxd -->
+<g id="edge6" class="edge" data-name="SXDTemplate.&lt;Receive Ether&gt;-&gt;SXDTemplate._mintSxd">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.63,-2073.51C182.26,-2078.28 211.84,-2083.79 236.96,-2088.46" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="236.2,-2091.88 246.67,-2090.27 237.48,-2085 236.2,-2091.88" style=""/>
+</g>
+<!-- MinOut.parseMinTokenOut -->
+<g id="node34" class="node" pointer-events="visible" data-name="MinOut.parseMinTokenOut">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-1590.05" rx="86.83" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-1585.85" font-family="Times,serif" font-size="14.00" style="">parseMinTokenOut</text>
+</g>
+<!-- SXDTemplate.&lt;Receive Ether&gt;&#45;&gt;MinOut.parseMinTokenOut -->
+<g id="edge7" class="edge" data-name="SXDTemplate.&lt;Receive Ether&gt;-&gt;MinOut.parseMinTokenOut">
+
+<path fill="none" stroke="white" stroke-width="2" d="M153.91,-2049.92C160.97,-2046.2 167.37,-2041.36 172.2,-2035.05 224.97,-1966.03 154.35,-1718.87 200.2,-1645.05 208.75,-1631.28 222.13,-1620.55 236.13,-1612.38" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="237.56,-1615.58 244.73,-1607.78 234.26,-1609.4 237.56,-1615.58" style=""/>
+</g>
+<!-- SXDTemplate.transfer -->
+<g id="node8" class="node" pointer-events="visible" data-name="SXDTemplate.transfer">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="94.1" cy="-1675.05" rx="40.55" ry="18" style=""/>
+<text text-anchor="middle" x="94.1" y="-1670.85" font-family="Times,serif" font-size="14.00" style="">transfer</text>
+</g>
+<!-- SXDTemplate.transfer&#45;&gt;SXDTemplate._burnSXD -->
+<g id="edge8" class="edge" data-name="SXDTemplate.transfer-&gt;SXDTemplate._burnSXD">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M110.04,-1693.02C144.34,-1734.27 228.97,-1836.03 270.34,-1885.77" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="267.45,-1887.78 276.54,-1893.23 272.84,-1883.3 267.45,-1887.78" style=""/>
+</g>
+<!-- SXDTemplate.payable -->
+<g id="node28" class="node" pointer-events="visible" data-name="SXDTemplate.payable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-1675.05" rx="41.13" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-1670.85" font-family="Times,serif" font-size="14.00" style="">payable</text>
+</g>
+<!-- SXDTemplate.transfer&#45;&gt;SXDTemplate.payable -->
+<g id="edge9" class="edge" data-name="SXDTemplate.transfer-&gt;SXDTemplate.payable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M135.8,-1675.05C165.75,-1675.05 206.77,-1675.05 239.52,-1675.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="239.5,-1678.55 249.5,-1675.05 239.5,-1671.55 239.5,-1678.55" style=""/>
+</g>
+<!-- MinOut.parseMinXdcOut -->
+<g id="node35" class="node" pointer-events="visible" data-name="MinOut.parseMinXdcOut">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-1536.05" rx="78.17" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-1531.85" font-family="Times,serif" font-size="14.00" style="">parseMinXdcOut</text>
+</g>
+<!-- SXDTemplate.transfer&#45;&gt;MinOut.parseMinXdcOut -->
+<g id="edge10" class="edge" data-name="SXDTemplate.transfer-&gt;MinOut.parseMinXdcOut">
+
+<path fill="none" stroke="white" stroke-width="2" d="M107.44,-1656.67C125.1,-1631.79 159.93,-1587.68 200.2,-1563.05 206.75,-1559.05 213.92,-1555.61 221.29,-1552.67" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="222.31,-1556.02 230.53,-1549.34 219.94,-1549.44 222.31,-1556.02" style=""/>
+</g>
+<!-- Delegable._transfer -->
+<g id="node36" class="node" pointer-events="visible" data-name="Delegable._transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="294.86" cy="-1451.05" rx="45.21" ry="18" style=""/>
+<text text-anchor="middle" x="294.86" y="-1446.85" font-family="Times,serif" font-size="14.00" style="">_transfer</text>
+</g>
+<!-- SXDTemplate.transfer&#45;&gt;Delegable._transfer -->
+<g id="edge11" class="edge" data-name="SXDTemplate.transfer-&gt;Delegable._transfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M103.2,-1656.02C118.25,-1622.4 153.31,-1551.76 200.2,-1506.05 214.79,-1491.83 233.75,-1479.81 250.79,-1470.68" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="252.22,-1473.88 259.51,-1466.2 249.02,-1467.65 252.22,-1473.88" style=""/>
+</g>
+<!-- SXDTemplate._updateBuySellAdjustmentIfNeeded -->
+<g id="node14" class="node" pointer-events="visible" data-name="SXDTemplate._updateBuySellAdjustmentIfNeeded">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-2025.05" rx="153.92" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-2020.85" font-family="Times,serif" font-size="14.00" style="">_updateBuySellAdjustmentIfNeeded</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded -->
+<g id="edge20" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M336.35,-2088.14C377.38,-2077.07 441.91,-2059.66 492.81,-2045.94" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="493.43,-2049.39 502.17,-2043.41 491.61,-2042.64 493.43,-2049.39" style=""/>
+</g>
+<!-- SXDTemplate.xdcPool -->
+<g id="node15" class="node" pointer-events="visible" data-name="SXDTemplate.xdcPool">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1228.76" cy="-2062.05" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="1228.76" y="-2057.85" font-family="Times,serif" font-size="14.00" style="">xdcPool</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate.xdcPool -->
+<g id="edge12" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate.xdcPool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.65,-2103.23C360.12,-2106.94 377.44,-2113.73 389.53,-2126.05 423.33,-2160.55 379.23,-2201.63 417.53,-2231.05 471.7,-2272.68 657.53,-2242.08 724.95,-2231.05 902.31,-2202.04 1101.46,-2119.05 1186.1,-2081.24" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1187.3,-2084.54 1194.98,-2077.24 1184.43,-2078.16 1187.3,-2084.54" style=""/>
+</g>
+<!-- SXDTemplate.debtRatio -->
+<g id="node17" class="node" pointer-events="visible" data-name="SXDTemplate.debtRatio">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-2099.05" rx="48.67" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-2094.85" font-family="Times,serif" font-size="14.00" style="">debtRatio</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge16" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.03,-2093.81C389.3,-2091.96 460.04,-2091.81 510.28,-2093.36" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="510.09,-2096.86 520.2,-2093.71 510.33,-2089.86 510.09,-2096.86" style=""/>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge18" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.03,-2104.3C389.3,-2106.14 460.04,-2106.29 510.28,-2104.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="510.33,-2108.25 520.2,-2104.4 510.09,-2101.25 510.33,-2108.25" style=""/>
+</g>
+<!-- SXDTemplate.sxdFromMint -->
+<g id="node22" class="node" pointer-events="visible" data-name="SXDTemplate.sxdFromMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-1837.05" rx="64.32" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-1832.85" font-family="Times,serif" font-size="14.00" style="">sxdFromMint</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate.sxdFromMint -->
+<g id="edge17" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate.sxdFromMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M328.83,-2084.94C349.61,-2074.3 375.14,-2057.65 389.53,-2035.05 430.88,-1970.09 363.42,-1918.85 417.53,-1864.05 437.45,-1843.88 466.83,-1835.73 494.51,-1833.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="494.71,-1836.63 504.47,-1832.49 494.26,-1829.64 494.71,-1836.63" style=""/>
+</g>
+<!-- SXDTemplate.buySellAdjustment -->
+<g id="node27" class="node" pointer-events="visible" data-name="SXDTemplate.buySellAdjustment">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-1819.05" rx="85.72" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-1814.85" font-family="Times,serif" font-size="14.00" style="">buySellAdjustment</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate.buySellAdjustment -->
+<g id="edge21" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate.buySellAdjustment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.42,-2103.46C359.86,-2107.19 377.23,-2113.94 389.53,-2126.05 419.97,-2156.05 383.18,-2192.61 417.53,-2218.05 444.97,-2238.39 699.59,-2240.94 724.95,-2218.05 770.22,-2177.19 712.15,-1990.38 752.95,-1945.05 807.87,-1884.04 869.55,-1958.28 933.7,-1907.05 957.01,-1888.44 939.36,-1865.83 961.7,-1846.05 965.03,-1843.1 968.69,-1840.47 972.56,-1838.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="973.95,-1841.35 981.22,-1833.65 970.73,-1835.14 973.95,-1841.35" style=""/>
+</g>
+<!-- SXDTemplate.cacheLatestPrice -->
+<g id="node29" class="node" pointer-events="visible" data-name="SXDTemplate.cacheLatestPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-2191.05" rx="76.39" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-2186.85" font-family="Times,serif" font-size="14.00" style="">cacheLatestPrice</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate.cacheLatestPrice -->
+<g id="edge14" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate.cacheLatestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M341.03,-2106.44C357.22,-2110.49 375.03,-2116.68 389.53,-2126.05 405.68,-2136.5 401,-2149.22 417.53,-2159.05 437.56,-2170.98 461.38,-2178.5 484.18,-2183.23" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="483.26,-2186.62 493.74,-2185.03 484.56,-2179.74 483.26,-2186.62" style=""/>
+</g>
+<!-- SXDTemplate.totalSupply -->
+<g id="node30" class="node" pointer-events="visible" data-name="SXDTemplate.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1228.76" cy="-2162.05" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1228.76" y="-2157.85" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate.totalSupply -->
+<g id="edge15" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.93,-2102.41C360.63,-2106.02 378.03,-2112.95 389.53,-2126.05 444.64,-2188.92 354.17,-2257.52 417.53,-2312.05 533.51,-2411.89 1021.57,-2240.07 1178.76,-2180.94" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1179.84,-2184.27 1187.95,-2177.46 1177.36,-2177.73 1179.84,-2184.27" style=""/>
+</g>
+<!-- SXDTemplate._mint -->
+<g id="node31" class="node" pointer-events="visible" data-name="SXDTemplate._mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-2285.05" rx="33.64" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-2280.85" font-family="Times,serif" font-size="14.00" style="">_mint</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;SXDTemplate._mint -->
+<g id="edge22" class="edge" data-name="SXDTemplate._mintSxd-&gt;SXDTemplate._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.94,-2102.94C360.45,-2106.62 377.71,-2113.47 389.53,-2126.05 429.08,-2168.2 376.44,-2212.4 417.53,-2253.05 445.15,-2280.39 489.77,-2287.14 523.66,-2287.79" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="523.51,-2291.29 533.5,-2287.76 523.49,-2284.29 523.51,-2291.29" style=""/>
+</g>
+<!-- rawXdcInPool.sub -->
+<g id="node37" class="node" pointer-events="visible" data-name="rawXdcInPool.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-1590.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-1585.85" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;rawXdcInPool.sub -->
+<g id="edge13" class="edge" data-name="SXDTemplate._mintSxd-&gt;rawXdcInPool.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M329.98,-2085.13C350.96,-2074.64 376.28,-2058.11 389.53,-2035.05 432.81,-1959.72 365.05,-1714.31 417.53,-1645.05 443.93,-1610.2 494.44,-1597.39 530.12,-1592.71" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="530.43,-1596.2 539.98,-1591.62 529.66,-1589.24 530.43,-1596.2" style=""/>
+</g>
+<!-- sxdTotalSupply.add -->
+<g id="node38" class="node" pointer-events="visible" data-name="sxdTotalSupply.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-387.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-382.85" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- SXDTemplate._mintSxd&#45;&gt;sxdTotalSupply.add -->
+<g id="edge19" class="edge" data-name="SXDTemplate._mintSxd-&gt;sxdTotalSupply.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M330.08,-2085.18C351.1,-2074.72 376.43,-2058.19 389.53,-2035.05 441.62,-1943.04 345.44,-1637.41 417.53,-1560.05 511.46,-1459.25 632.72,-1622.42 724.95,-1520.05 766.09,-1474.39 715.69,-462.93 752.95,-414.05 764.5,-398.91 784.27,-391.98 802.28,-388.91" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.47,-392.42 811.95,-387.68 801.58,-385.47 802.47,-392.42" style=""/>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded -->
+<g id="edge32" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M317.34,-1931.56C340.63,-1949.65 379.58,-1977.4 417.53,-1993.05 430.79,-1998.53 445.11,-2003.1 459.47,-2006.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="458.59,-2010.31 469.15,-2009.35 460.3,-2003.52 458.59,-2010.31" style=""/>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate.xdcPool -->
+<g id="edge24" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate.xdcPool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M345.43,-1920.86C455,-1936.06 709.4,-1972.29 724.95,-1983.05 745.57,-1997.33 731.66,-2018.79 752.95,-2032.05 761.74,-2037.53 1048.54,-2052.86 1172.07,-2059.23" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1171.71,-2062.71 1181.88,-2059.73 1172.07,-2055.72 1171.71,-2062.71" style=""/>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge26" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M335.05,-1926.87C353.62,-1937.5 374.89,-1953.3 389.53,-1972.05 410.4,-1998.79 392.63,-2020.01 417.53,-2043.05 444.39,-2067.93 484.15,-2079.64 516.36,-2086.39" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="515.28,-2089.75 525.77,-2088.25 516.64,-2082.88 515.28,-2089.75" style=""/>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge28" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M317.59,-1931.67C338.57,-1945.22 369.97,-1964.99 389.53,-1990.05 410.4,-2016.79 392.63,-2038.01 417.53,-2061.05 442.46,-2084.14 478.5,-2095.89 509.31,-2100.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="508.76,-2104.35 519.14,-2102.22 509.7,-2097.41 508.76,-2104.35" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromBurn -->
+<g id="node23" class="node" pointer-events="visible" data-name="SXDTemplate.xdcFromBurn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-1783.05" rx="65.44" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-1778.85" font-family="Times,serif" font-size="14.00" style="">xdcFromBurn</text>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate.xdcFromBurn -->
+<g id="edge27" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate.xdcFromBurn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M311.49,-1895.64C332.84,-1871.79 373.55,-1830.82 417.53,-1810.05 440.85,-1799.04 468.1,-1792.49 493.08,-1788.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="493.48,-1792.08 502.9,-1787.22 492.51,-1785.15 493.48,-1792.08" style=""/>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate.buySellAdjustment -->
+<g id="edge33" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate.buySellAdjustment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M348.55,-1916.16C369.95,-1916.92 394.92,-1917.68 417.53,-1918.05 554.14,-1920.3 591.53,-1947.52 724.95,-1918.05 738.35,-1915.1 740.11,-1909.89 752.95,-1905.05 827.61,-1876.96 915.73,-1852.21 975.77,-1836.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="976.4,-1840.01 985.2,-1834.12 974.65,-1833.23 976.4,-1840.01" style=""/>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate.cacheLatestPrice -->
+<g id="edge23" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate.cacheLatestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M328.79,-1929.23C349.55,-1940.55 375.08,-1958.02 389.53,-1981.05 428.57,-2043.33 368.99,-2088.85 417.53,-2144.05 434.76,-2163.66 459.96,-2175.2 484.94,-2181.96" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="484.06,-2185.35 494.6,-2184.28 485.69,-2178.54 484.06,-2185.35" style=""/>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate.totalSupply -->
+<g id="edge25" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M327.89,-1929.34C352,-1940.19 386.14,-1954.17 417.53,-1962.05 550.95,-1995.58 609.15,-1923.79 724.95,-1998.05 745.1,-2010.98 733.66,-2029.88 752.95,-2044.05 769.91,-2056.52 1045.31,-2120.43 1168.73,-2148.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1167.77,-2152.01 1178.29,-2150.83 1169.32,-2145.19 1167.77,-2152.01" style=""/>
+</g>
+<!-- SXDTemplate._burn -->
+<g id="node32" class="node" pointer-events="visible" data-name="SXDTemplate._burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-1675.05" rx="33.63" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-1670.85" font-family="Times,serif" font-size="14.00" style="">_burn</text>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;SXDTemplate._burn -->
+<g id="edge31" class="edge" data-name="SXDTemplate._burnSXD-&gt;SXDTemplate._burn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M300.9,-1894.74C313.06,-1852.28 348.25,-1750.72 417.53,-1702.05 448.41,-1680.36 491.26,-1674.33 523.72,-1673.31" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="523.5,-1676.81 533.45,-1673.19 523.41,-1669.81 523.5,-1676.81" style=""/>
+</g>
+<!-- sxdTotalSupply.sub -->
+<g id="node39" class="node" pointer-events="visible" data-name="sxdTotalSupply.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-333.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-328.85" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;sxdTotalSupply.sub -->
+<g id="edge30" class="edge" data-name="SXDTemplate._burnSXD-&gt;sxdTotalSupply.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M306.22,-1895.1C325.62,-1858.76 367.47,-1776.31 389.53,-1702.05 411.58,-1627.81 362.58,-1584.64 417.53,-1530.05 515.63,-1432.59 633.72,-1585.98 724.95,-1482.05 766.08,-1435.19 715.16,-409.65 752.95,-360.05 764.49,-344.91 784.26,-337.98 802.28,-334.91" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.47,-338.42 811.94,-333.68 801.58,-331.47 802.47,-338.42" style=""/>
+</g>
+<!-- xdcInPool.sub -->
+<g id="node41" class="node" pointer-events="visible" data-name="xdcInPool.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-194.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-189.85" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;xdcInPool.sub -->
+<g id="edge29" class="edge" data-name="SXDTemplate._burnSXD-&gt;xdcInPool.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M306.46,-1895.17C326.27,-1858.95 368.77,-1776.68 389.53,-1702.05 402.73,-1654.57 382.06,-1516.27 417.53,-1482.05 466.89,-1434.42 678.12,-1504.18 724.95,-1454.05 771.72,-1403.98 711.48,-275.6 752.95,-221.05 764.48,-205.9 784.25,-198.96 802.27,-195.9" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.45,-199.4 811.93,-194.67 801.57,-192.46 802.45,-199.4" style=""/>
+</g>
+<!-- to.sendValue -->
+<g id="node43" class="node" pointer-events="visible" data-name="to.sendValue">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-1399.05" rx="51.59" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-1394.85" font-family="Times,serif" font-size="14.00" style="">sendValue</text>
+</g>
+<!-- SXDTemplate._burnSXD&#45;&gt;to.sendValue -->
+<g id="edge34" class="edge" data-name="SXDTemplate._burnSXD-&gt;to.sendValue">
+
+<path fill="none" stroke="white" stroke-width="2" d="M306.56,-1895.19C326.53,-1859.02 369.3,-1776.82 389.53,-1702.05 404.01,-1648.52 383.14,-1497.57 417.53,-1454.05 439.12,-1426.73 475.46,-1412.97 507.27,-1406.04" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="507.54,-1409.56 516.68,-1404.21 506.2,-1402.69 507.54,-1409.56" style=""/>
+</g>
+<!-- SXDTemplate._updateMinFxdBuyPrice -->
+<g id="node13" class="node" pointer-events="visible" data-name="SXDTemplate._updateMinFxdBuyPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-2419.05" rx="108.84" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-2414.85" font-family="Times,serif" font-size="14.00" style="">_updateMinFxdBuyPrice</text>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate._updateMinFxdBuyPrice -->
+<g id="edge41" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate._updateMinFxdBuyPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M299.98,-2172.44C310.69,-2217.78 343.84,-2331.16 417.53,-2387.05 429.5,-2396.13 443.45,-2402.78 457.96,-2407.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="456.77,-2410.92 467.36,-2410.42 458.77,-2404.21 456.77,-2410.92" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded -->
+<g id="edge45" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M342.75,-2147.26C358.94,-2143.38 376.31,-2136.89 389.53,-2126.05 410.44,-2108.92 396.77,-2089.38 417.53,-2072.05 431.63,-2060.28 448.65,-2051.46 466.14,-2044.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="467.15,-2048.2 475.44,-2041.6 464.84,-2041.59 467.15,-2048.2" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate.xdcPool -->
+<g id="edge36" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate.xdcPool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M302.08,-2172.16C315.79,-2210.66 352.64,-2296.81 417.53,-2331.05 477.94,-2362.94 658.25,-2345.82 724.95,-2331.05 920.24,-2287.81 964,-2248.18 1132.92,-2141.05 1157.19,-2125.66 1182.07,-2104.7 1200.25,-2088.24" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1202.4,-2091.02 1207.39,-2081.67 1197.66,-2085.87 1202.4,-2091.02" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge39" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M333.72,-2140.77C379.22,-2129.59 456.13,-2114.17 509.85,-2105.23" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="510.34,-2108.7 519.65,-2103.65 509.22,-2101.79 510.34,-2108.7" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge44" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.65,-2148.91C393.09,-2141.13 469.95,-2126.04 520.2,-2114.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="520.83,-2117.7 529.74,-2111.97 519.2,-2110.9 520.83,-2117.7" style=""/>
+</g>
+<!-- SXDTemplate.fxdFromFund -->
+<g id="node24" class="node" pointer-events="visible" data-name="SXDTemplate.fxdFromFund">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-1891.05" rx="64.88" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-1886.85" font-family="Times,serif" font-size="14.00" style="">fxdFromFund</text>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate.fxdFromFund -->
+<g id="edge43" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate.fxdFromFund">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M343.95,-2149.17C360.46,-2145.5 377.72,-2138.65 389.53,-2126.05 429.34,-2083.55 385.25,-2046.52 417.53,-1998.05 443.16,-1959.56 487.74,-1930.71 522.13,-1912.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="523.32,-1916.05 530.67,-1908.41 520.16,-1909.8 523.32,-1916.05" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate.buySellAdjustment -->
+<g id="edge42" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate.buySellAdjustment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M303.53,-2172.08C318.97,-2207.45 357.54,-2282.42 417.53,-2312.05 478.78,-2342.31 674.76,-2358.41 724.95,-2312.05 782.59,-2258.81 699.72,-2017.71 752.95,-1960.05 808.14,-1900.28 871.78,-1983.83 933.7,-1931.05 963.97,-1905.25 933.44,-1874.05 961.7,-1846.05 964.66,-1843.12 967.93,-1840.51 971.42,-1838.18" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="972.79,-1841.43 979.81,-1833.49 969.38,-1835.32 972.79,-1841.43" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate.cacheLatestPrice -->
+<g id="edge35" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate.cacheLatestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M342.09,-2159.46C382.54,-2165.06 442.19,-2173.32 490.35,-2179.99" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="489.58,-2183.42 499.96,-2181.32 490.54,-2176.48 489.58,-2183.42" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;SXDTemplate.totalSupply -->
+<g id="edge38" class="edge" data-name="SXDTemplate._fundFxd-&gt;SXDTemplate.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M299.93,-2172.13C310.46,-2216.03 343.09,-2323.75 417.53,-2367.05 479.69,-2403.22 1110.14,-2361.75 1132.92,-2347.05 1186.67,-2312.37 1211.45,-2237.03 1221.61,-2193.96" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1224.98,-2194.93 1223.71,-2184.41 1218.15,-2193.43 1224.98,-2194.93" style=""/>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;rawXdcInPool.sub -->
+<g id="edge37" class="edge" data-name="SXDTemplate._fundFxd-&gt;rawXdcInPool.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M344.09,-2150.34C361.02,-2146.84 378.54,-2139.8 389.53,-2126.05 456.36,-2042.41 353.44,-1730.83 417.53,-1645.05 443.7,-1610.02 494.25,-1597.25 530.01,-1592.63" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="530.34,-1596.11 539.9,-1591.55 529.58,-1589.15 530.34,-1596.11" style=""/>
+</g>
+<!-- FXD.totalSupply -->
+<g id="node44" class="node" pointer-events="visible" data-name="FXD.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-180.05" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-175.85" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;FXD.totalSupply -->
+<g id="edge40" class="edge" data-name="SXDTemplate._fundFxd-&gt;FXD.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M344.25,-2150.47C361.19,-2146.98 378.69,-2139.92 389.53,-2126.05 415.45,-2092.9 411.06,-1410.64 417.53,-1369.05 502.93,-819.74 310.28,-500.33 752.95,-164.05 788.23,-137.26 910.69,-154.19 985.78,-167.85" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="984.87,-171.24 995.34,-169.62 986.15,-164.36 984.87,-171.24" style=""/>
+</g>
+<!-- FXD.mint -->
+<g id="node45" class="node" pointer-events="visible" data-name="FXD.mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-126.05" rx="28.99" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-121.85" font-family="Times,serif" font-size="14.00" style="">mint</text>
+</g>
+<!-- SXDTemplate._fundFxd&#45;&gt;FXD.mint -->
+<g id="edge46" class="edge" data-name="SXDTemplate._fundFxd-&gt;FXD.mint">
+
+<path fill="none" stroke="white" stroke-width="2" d="M344.41,-2150.59C361.38,-2147.12 378.84,-2140.04 389.53,-2126.05 454.89,-2040.48 345.81,-268.37 417.53,-188.05 570.9,-16.28 895.59,-84.54 1007.46,-114.67" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1006.24,-117.96 1016.81,-117.25 1008.1,-111.21 1006.24,-117.96" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded -->
+<g id="edge55" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate._updateBuySellAdjustmentIfNeeded">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M353.04,-2011.6C372.68,-2012.81 395.68,-2014.24 419.23,-2015.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="418.74,-2019.17 428.94,-2016.3 419.17,-2012.19 418.74,-2019.17" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate.xdcPool -->
+<g id="edge48" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate.xdcPool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M329.62,-2023.73C353.58,-2033.98 386.81,-2046.47 417.53,-2052.05 491.01,-2065.4 1000.11,-2063.49 1171.55,-2062.45" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1171.48,-2065.95 1181.46,-2062.38 1171.44,-2058.95 1171.48,-2065.95" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge50" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M335.09,-2022.27C358.44,-2033.48 388.98,-2048.31 417.53,-2058.05 451.06,-2069.5 490.2,-2077.61 520.46,-2084" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="519.37,-2087.34 529.88,-2086 520.83,-2080.5 519.37,-2087.34" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge52" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M315.88,-2026.11C339.47,-2041.88 380.2,-2063.31 417.53,-2076.05 446.87,-2086.07 480.5,-2093.53 508.73,-2097.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="507.89,-2101.32 518.28,-2099.27 508.88,-2094.4 507.89,-2101.32" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromDefund -->
+<g id="node25" class="node" pointer-events="visible" data-name="SXDTemplate.xdcFromDefund">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="571.24" cy="-1729.05" rx="74.74" ry="18" style=""/>
+<text text-anchor="middle" x="571.24" y="-1724.85" font-family="Times,serif" font-size="14.00" style="">xdcFromDefund</text>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate.xdcFromDefund -->
+<g id="edge51" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate.xdcFromDefund">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M329.86,-1992.47C350.51,-1981.18 375.52,-1963.89 389.53,-1941.05 432.99,-1870.16 359.46,-1815.58 417.53,-1756.05 434.9,-1738.25 459.62,-1729.78 484.13,-1726.22" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="484.33,-1729.72 493.88,-1725.13 483.55,-1722.77 484.33,-1729.72" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate.buySellAdjustment -->
+<g id="edge56" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate.buySellAdjustment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M347.85,-1999.24C428.71,-1985.36 589.39,-1957.1 724.95,-1929.05 818.17,-1909.76 853.09,-1931.71 933.7,-1881.05 950.57,-1870.46 945.29,-1857.34 961.7,-1846.05 965.87,-1843.19 970.36,-1840.61 975.02,-1838.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="976.36,-1841.53 984.1,-1834.3 973.54,-1835.13 976.36,-1841.53" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate.cacheLatestPrice -->
+<g id="edge47" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate.cacheLatestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M329.1,-2023.64C349.18,-2034.61 373.85,-2051.07 389.53,-2072.05 413.83,-2104.6 387.34,-2131.88 417.53,-2159.05 434.94,-2174.73 458.01,-2183.47 480.94,-2188.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="480.19,-2191.58 490.64,-2189.85 481.39,-2184.69 480.19,-2191.58" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;SXDTemplate.totalSupply -->
+<g id="edge49" class="edge" data-name="SXDTemplate._defundFxd-&gt;SXDTemplate.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M328.67,-2023.97C348.59,-2035.07 373.24,-2051.54 389.53,-2072.05 410.88,-2098.94 389.4,-2124.36 417.53,-2144.05 447.63,-2165.14 968.45,-2163.8 1158.81,-2162.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1158.66,-2166.09 1168.64,-2162.53 1158.61,-2159.09 1158.66,-2166.09" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;xdcInPool.sub -->
+<g id="edge53" class="edge" data-name="SXDTemplate._defundFxd-&gt;xdcInPool.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M331.13,-1992.68C352.01,-1981.57 376.79,-1964.4 389.53,-1941.05 420,-1885.19 406.97,-1431.8 417.53,-1369.05 505.67,-844.86 378.8,-598.63 752.95,-221.05 765.95,-207.93 785.09,-201.14 802.32,-197.65" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.71,-201.13 812.01,-196.06 801.57,-194.23 802.71,-201.13" style=""/>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;to.sendValue -->
+<g id="edge57" class="edge" data-name="SXDTemplate._defundFxd-&gt;to.sendValue">
+
+<path fill="none" stroke="white" stroke-width="2" d="M330.98,-1992.6C351.79,-1981.45 376.57,-1964.28 389.53,-1941.05 434.13,-1861.11 376.48,-1611.88 417.53,-1530.05 441.94,-1481.38 493.24,-1443.42 529.63,-1421.16" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="530.99,-1424.43 537.8,-1416.31 527.41,-1418.41 530.99,-1424.43" style=""/>
+</g>
+<!-- FXD.burn -->
+<g id="node46" class="node" pointer-events="visible" data-name="FXD.burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-72.05" rx="28.98" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-67.85" font-family="Times,serif" font-size="14.00" style="">burn</text>
+</g>
+<!-- SXDTemplate._defundFxd&#45;&gt;FXD.burn -->
+<g id="edge54" class="edge" data-name="SXDTemplate._defundFxd-&gt;FXD.burn">
+
+<path fill="none" stroke="white" stroke-width="2" d="M331.41,-1992.83C352.39,-1981.77 377.19,-1964.61 389.53,-1941.05 413.31,-1895.65 381.7,-132.71 417.53,-96.05 578.03,68.18 898.89,-21.12 1008.55,-58.32" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1007.4,-61.62 1017.99,-61.58 1009.69,-55.01 1007.4,-61.62" style=""/>
+</g>
+<!-- oldAdjustment.mul -->
+<g id="node47" class="node" pointer-events="visible" data-name="oldAdjustment.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1590.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1585.85" font-family="Times,serif" font-size="14.00" style="">mul</text>
+</g>
+<!-- SXDTemplate._updateBuySellAdjustmentIfNeeded&#45;&gt;oldAdjustment.mul -->
+<g id="edge58" class="edge" data-name="SXDTemplate._updateBuySellAdjustmentIfNeeded-&gt;oldAdjustment.mul">
+
+<path fill="none" stroke="white" stroke-width="2" d="M616.81,-2006.58C652.48,-1989.27 700.45,-1959.79 724.95,-1918.05 786.71,-1812.87 688.09,-1748.35 752.95,-1645.05 765.11,-1625.69 786.83,-1612.09 805.81,-1603.26" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="807.17,-1606.49 814.98,-1599.33 804.41,-1600.05 807.17,-1606.49" style=""/>
+</g>
+<!-- SXDTemplate.xdcBuffer -->
+<g id="node16" class="node" pointer-events="visible" data-name="SXDTemplate.xdcBuffer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1047.31" cy="-1967.05" rx="50.37" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-1962.85" font-family="Times,serif" font-size="14.00" style="">xdcBuffer</text>
+</g>
+<!-- SXDTemplate.xdcBuffer&#45;&gt;SXDTemplate.xdcPool -->
+<g id="edge104" class="edge" data-name="SXDTemplate.xdcBuffer-&gt;SXDTemplate.xdcPool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1077.94,-1982.74C1108.22,-1998.77 1155.39,-2023.74 1188.7,-2041.38" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1186.7,-2044.28 1197.18,-2045.87 1189.98,-2038.09 1186.7,-2044.28" style=""/>
+</g>
+<!-- SXDTemplate.xdcBuffer&#45;&gt;SXDTemplate.xdcBuffer -->
+<g id="edge102" class="edge" data-name="SXDTemplate.xdcBuffer-&gt;SXDTemplate.xdcBuffer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1016.28,-1982.6C1007.55,-1992.96 1017.89,-2003.05 1047.31,-2003.05 1063.39,-2003.05 1073.78,-2000.04 1078.45,-1995.61" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1081.95,-1995.59 1078.36,-1985.62 1074.95,-1995.65 1081.95,-1995.59" style=""/>
+</g>
+<!-- SXDTemplate.sxdToXdc -->
+<g id="node19" class="node" pointer-events="visible" data-name="SXDTemplate.sxdToXdc">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1228.76" cy="-1718.05" rx="51.04" ry="18" style=""/>
+<text text-anchor="middle" x="1228.76" y="-1713.85" font-family="Times,serif" font-size="14.00" style="">sxdToXdc</text>
+</g>
+<!-- SXDTemplate.xdcBuffer&#45;&gt;SXDTemplate.sxdToXdc -->
+<g id="edge59" class="edge" data-name="SXDTemplate.xdcBuffer-&gt;SXDTemplate.sxdToXdc">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1083.81,-1953.49C1101.25,-1945.03 1121.02,-1932.4 1132.92,-1915.05 1171.76,-1858.4 1123.26,-1820.5 1160.92,-1763.05 1166.92,-1753.89 1175.52,-1746.12 1184.55,-1739.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1186.14,-1742.89 1192.67,-1734.54 1182.36,-1736.99 1186.14,-1742.89" style=""/>
+</g>
+<!-- SXDTemplate.xdcBuffer&#45;&gt;SXDTemplate.totalSupply -->
+<g id="edge105" class="edge" data-name="SXDTemplate.xdcBuffer-&gt;SXDTemplate.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1064.87,-1985.05C1096.3,-2019.21 1164.81,-2093.65 1202.19,-2134.27" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1199.58,-2136.6 1208.93,-2141.59 1204.73,-2131.86 1199.58,-2136.6" style=""/>
+</g>
+<!-- SXDTemplate.latestPrice -->
+<g id="node33" class="node" pointer-events="visible" data-name="SXDTemplate.latestPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1375.85" cy="-1887.05" rx="51.02" ry="18" style=""/>
+<text text-anchor="middle" x="1375.85" y="-1882.85" font-family="Times,serif" font-size="14.00" style="">latestPrice</text>
+</g>
+<!-- SXDTemplate.xdcBuffer&#45;&gt;SXDTemplate.latestPrice -->
+<g id="edge103" class="edge" data-name="SXDTemplate.xdcBuffer-&gt;SXDTemplate.latestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1098.72,-1966.71C1149.92,-1964.95 1230.81,-1958.26 1296.6,-1935.05 1312.45,-1929.46 1328.52,-1920.33 1341.94,-1911.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1343.75,-1914.53 1350.03,-1906 1339.8,-1908.75 1343.75,-1914.53" style=""/>
+</g>
+<!-- SXDTemplate.debtRatio&#45;&gt;SXDTemplate.xdcPool -->
+<g id="edge112" class="edge" data-name="SXDTemplate.debtRatio-&gt;SXDTemplate.xdcPool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M620.71,-2096.32C739.71,-2089.6 1045.76,-2072.33 1172.02,-2065.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1171.92,-2068.71 1181.71,-2064.65 1171.53,-2061.72 1171.92,-2068.71" style=""/>
+</g>
+<!-- SXDTemplate.debtRatio&#45;&gt;SXDTemplate.debtRatio -->
+<g id="edge110" class="edge" data-name="SXDTemplate.debtRatio-&gt;SXDTemplate.debtRatio">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M531.06,-2110.67C508.16,-2122.25 521.55,-2135.05 571.24,-2135.05 609.28,-2135.05 626.05,-2127.55 621.54,-2118.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="623.75,-2116.12 613.77,-2112.57 619.36,-2121.57 623.75,-2116.12" style=""/>
+</g>
+<!-- SXDTemplate.debtRatio&#45;&gt;SXDTemplate.totalSupply -->
+<g id="edge113" class="edge" data-name="SXDTemplate.debtRatio-&gt;SXDTemplate.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M617.03,-2107.02C653.52,-2113.26 706.42,-2121.74 752.95,-2127.05 897.32,-2143.53 1067.3,-2153.88 1159.65,-2158.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1159.24,-2162.24 1169.41,-2159.26 1159.6,-2155.25 1159.24,-2162.24" style=""/>
+</g>
+<!-- SXDTemplate.debtRatio&#45;&gt;SXDTemplate.latestPrice -->
+<g id="edge111" class="edge" data-name="SXDTemplate.debtRatio-&gt;SXDTemplate.latestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M610.9,-2110.82C745.05,-2150.59 1188.11,-2273.01 1296.6,-2189.05 1339.46,-2155.88 1363.14,-1989.97 1371.43,-1919.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1374.89,-1919.67 1372.54,-1909.34 1367.94,-1918.89 1374.89,-1919.67" style=""/>
+</g>
+<!-- sxdTotalSupply.wadDivUp -->
+<g id="node40" class="node" pointer-events="visible" data-name="sxdTotalSupply.wadDivUp">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-441.05" rx="53.33" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-436.85" font-family="Times,serif" font-size="14.00" style="">wadDivUp</text>
+</g>
+<!-- SXDTemplate.debtRatio&#45;&gt;sxdTotalSupply.wadDivUp -->
+<g id="edge61" class="edge" data-name="SXDTemplate.debtRatio-&gt;sxdTotalSupply.wadDivUp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M621.29,-2098.19C656.24,-2094.7 701.1,-2083.75 724.95,-2052.05 776.94,-1982.97 710.1,-571.15 752.95,-496.05 761.89,-480.39 777.27,-468.62 792.79,-460.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="793.96,-463.4 801.31,-455.77 790.81,-457.15 793.96,-463.4" style=""/>
+</g>
+<!-- xdcInPool.wadMulDown -->
+<g id="node42" class="node" pointer-events="visible" data-name="xdcInPool.wadMulDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-248.05" rx="66.66" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-243.85" font-family="Times,serif" font-size="14.00" style="">wadMulDown</text>
+</g>
+<!-- SXDTemplate.debtRatio&#45;&gt;xdcInPool.wadMulDown -->
+<g id="edge60" class="edge" data-name="SXDTemplate.debtRatio-&gt;xdcInPool.wadMulDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M621.31,-2098.21C656.27,-2094.72 701.13,-2083.77 724.95,-2052.05 783.31,-1974.35 704.87,-387.5 752.95,-303.05 761.13,-288.69 774.74,-277.59 788.9,-269.26" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="790.46,-272.4 797.62,-264.59 787.15,-266.23 790.46,-272.4" style=""/>
+</g>
+<!-- SXDTemplate.xdcToSxd -->
+<g id="node18" class="node" pointer-events="visible" data-name="SXDTemplate.xdcToSxd">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1228.76" cy="-1790.05" rx="50.97" ry="18" style=""/>
+<text text-anchor="middle" x="1228.76" y="-1785.85" font-family="Times,serif" font-size="14.00" style="">xdcToSxd</text>
+</g>
+<!-- SXDTemplate.xdcToSxd&#45;&gt;SXDTemplate.xdcToSxd -->
+<g id="edge106" class="edge" data-name="SXDTemplate.xdcToSxd-&gt;SXDTemplate.xdcToSxd">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1202.9,-1806.72C1197.15,-1816.68 1205.77,-1826.05 1228.76,-1826.05 1240.97,-1826.05 1249.12,-1823.41 1253.23,-1819.43" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1256.68,-1820.05 1254.29,-1809.73 1249.72,-1819.29 1256.68,-1820.05" style=""/>
+</g>
+<!-- SXDTemplate.xdcToSxd&#45;&gt;SXDTemplate.latestPrice -->
+<g id="edge107" class="edge" data-name="SXDTemplate.xdcToSxd-&gt;SXDTemplate.latestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1254.7,-1806.73C1277.95,-1822.28 1312.89,-1845.63 1339.11,-1863.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1336.98,-1865.94 1347.23,-1868.59 1340.87,-1860.12 1336.98,-1865.94" style=""/>
+</g>
+<!-- xdcAmount.wadMul -->
+<g id="node48" class="node" pointer-events="visible" data-name="xdcAmount.wadMul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1375.85" cy="-1590.05" rx="43.45" ry="18" style=""/>
+<text text-anchor="middle" x="1375.85" y="-1585.85" font-family="Times,serif" font-size="14.00" style="">wadMul</text>
+</g>
+<!-- SXDTemplate.xdcToSxd&#45;&gt;xdcAmount.wadMul -->
+<g id="edge62" class="edge" data-name="SXDTemplate.xdcToSxd-&gt;xdcAmount.wadMul">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1272.88,-1779.63C1281.77,-1775.72 1290.32,-1770.36 1296.6,-1763.05 1331.73,-1722.18 1299.39,-1692.7 1324.6,-1645.05 1330.08,-1634.7 1337.97,-1624.79 1345.88,-1616.3" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1348.36,-1618.78 1352.9,-1609.21 1343.38,-1613.85 1348.36,-1618.78" style=""/>
+</g>
+<!-- SXDTemplate.sxdToXdc&#45;&gt;SXDTemplate.sxdToXdc -->
+<g id="edge108" class="edge" data-name="SXDTemplate.sxdToXdc-&gt;SXDTemplate.sxdToXdc">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1202.9,-1734.72C1197.15,-1744.68 1205.77,-1754.05 1228.76,-1754.05 1240.97,-1754.05 1249.12,-1751.41 1253.23,-1747.43" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1256.68,-1748.05 1254.29,-1737.73 1249.72,-1747.29 1256.68,-1748.05" style=""/>
+</g>
+<!-- SXDTemplate.sxdToXdc&#45;&gt;SXDTemplate.latestPrice -->
+<g id="edge109" class="edge" data-name="SXDTemplate.sxdToXdc-&gt;SXDTemplate.latestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M1258.72,-1733.87C1271.27,-1741.62 1285.59,-1751.71 1296.6,-1763.05 1323.81,-1791.09 1346.53,-1830.08 1360.35,-1856.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1357.08,-1858.09 1364.7,-1865.45 1363.33,-1854.94 1357.08,-1858.09" style=""/>
+</g>
+<!-- sxdAmount.wadDiv -->
+<g id="node49" class="node" pointer-events="visible" data-name="sxdAmount.wadDiv">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1375.85" cy="-1505.05" rx="41.72" ry="18" style=""/>
+<text text-anchor="middle" x="1375.85" y="-1500.85" font-family="Times,serif" font-size="14.00" style="">wadDiv</text>
+</g>
+<!-- SXDTemplate.sxdToXdc&#45;&gt;sxdAmount.wadDiv -->
+<g id="edge63" class="edge" data-name="SXDTemplate.sxdToXdc-&gt;sxdAmount.wadDiv">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1250.07,-1700.33C1264.78,-1686.55 1284.18,-1666.26 1296.6,-1645.05 1316.7,-1610.73 1304.51,-1594.39 1324.6,-1560.05 1330.67,-1549.67 1338.96,-1539.57 1347.06,-1530.92" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1349.36,-1533.58 1353.87,-1523.99 1344.37,-1528.67 1349.36,-1533.58" style=""/>
+</g>
+<!-- SXDTemplate.sxdPrice -->
+<g id="node20" class="node" pointer-events="visible" data-name="SXDTemplate.sxdPrice">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="843.32" cy="-1773.05" rx="44.09" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1768.85" font-family="Times,serif" font-size="14.00" style="">sxdPrice</text>
+</g>
+<!-- SXDTemplate.sxdPrice&#45;&gt;SXDTemplate.sxdToXdc -->
+<g id="edge64" class="edge" data-name="SXDTemplate.sxdPrice-&gt;SXDTemplate.sxdToXdc">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M886.46,-1767.01C954.55,-1757.24 1089.04,-1737.95 1167.33,-1726.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1167.47,-1730.24 1176.87,-1725.35 1166.47,-1723.31 1167.47,-1730.24" style=""/>
+</g>
+<!-- SXDTemplate.sxdPrice&#45;&gt;SXDTemplate.sxdPrice -->
+<g id="edge114" class="edge" data-name="SXDTemplate.sxdPrice-&gt;SXDTemplate.sxdPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M810.91,-1786.35C797.06,-1797.45 807.87,-1809.05 843.32,-1809.05 866.04,-1809.05 878.64,-1804.29 881.12,-1797.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="884.39,-1796.69 877.01,-1789.09 878.04,-1799.64 884.39,-1796.69" style=""/>
+</g>
+<!-- SXDTemplate.sxdPrice&#45;&gt;SXDTemplate.buySellAdjustment -->
+<g id="edge65" class="edge" data-name="SXDTemplate.sxdPrice-&gt;SXDTemplate.buySellAdjustment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M883.75,-1782.03C909.16,-1787.82 942.99,-1795.52 973.21,-1802.41" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="972.42,-1805.82 982.95,-1804.62 973.97,-1798.99 972.42,-1805.82" style=""/>
+</g>
+<!-- SXDTemplate.sxdPrice&#45;&gt;SXDTemplate.latestPrice -->
+<g id="edge115" class="edge" data-name="SXDTemplate.sxdPrice-&gt;SXDTemplate.latestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M884.41,-1765.09C943.31,-1755.6 1054.7,-1746.26 1132.92,-1792.05 1152.6,-1803.58 1142.3,-1821.88 1160.92,-1835.05 1205.02,-1866.28 1265.66,-1878.87 1311.12,-1883.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1310.5,-1887.35 1320.8,-1884.85 1311.19,-1880.38 1310.5,-1887.35" style=""/>
+</g>
+<!-- price.wadDiv -->
+<g id="node50" class="node" pointer-events="visible" data-name="price.wadDiv">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-1482.05" rx="41.72" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-1477.85" font-family="Times,serif" font-size="14.00" style="">wadDiv</text>
+</g>
+<!-- SXDTemplate.sxdPrice&#45;&gt;price.wadDiv -->
+<g id="edge66" class="edge" data-name="SXDTemplate.sxdPrice-&gt;price.wadDiv">
+
+<path fill="none" stroke="white" stroke-width="2" d="M860.22,-1755.4C880.47,-1731.94 915.06,-1688.37 933.7,-1645.05 958.09,-1588.37 920.43,-1554.94 961.7,-1509.05 969.96,-1499.86 981.35,-1493.78 993.09,-1489.76" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="993.76,-1493.21 1002.42,-1487.11 991.85,-1486.48 993.76,-1493.21" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice -->
+<g id="node21" class="node" pointer-events="visible" data-name="SXDTemplate.fxdPrice">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="843.32" cy="-1987.05" rx="43.5" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1982.85" font-family="Times,serif" font-size="14.00" style="">fxdPrice</text>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.xdcPool -->
+<g id="edge118" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.xdcPool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M883.06,-1995.96C905.88,-2001.05 935.35,-2007.33 961.7,-2012.05 1037.4,-2025.63 1057.57,-2021.67 1132.92,-2037.05 1148.01,-2040.14 1164.29,-2044.16 1179.02,-2048.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1178.01,-2051.43 1188.58,-2050.68 1179.85,-2044.68 1178.01,-2051.43" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.xdcBuffer -->
+<g id="edge68" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.xdcBuffer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M887.16,-1982.81C915.45,-1980.01 952.99,-1976.29 984.5,-1973.17" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="984.52,-1976.69 994.13,-1972.22 983.83,-1969.72 984.52,-1976.69" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.sxdToXdc -->
+<g id="edge67" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.sxdToXdc">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M882.71,-1977.7C899.24,-1972.59 918.28,-1965.2 933.7,-1955.05 948.94,-1945.03 945.54,-1933.52 961.7,-1925.05 1029.83,-1889.38 1077.02,-1952.87 1132.92,-1900.05 1178.09,-1857.37 1126.34,-1814.7 1160.92,-1763.05 1167.01,-1753.95 1175.64,-1746.2 1184.67,-1739.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1186.26,-1742.97 1192.79,-1734.63 1182.49,-1737.08 1186.26,-1742.97" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.fxdPrice -->
+<g id="edge116" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.fxdPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M810.91,-2000.35C797.06,-2011.45 807.87,-2023.05 843.32,-2023.05 866.04,-2023.05 878.64,-2018.29 881.12,-2011.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="884.39,-2010.69 877.01,-2003.09 878.04,-2013.64 884.39,-2010.69" style=""/>
+</g>
+<!-- SXDTemplate.minFxdBuyPrice -->
+<g id="node26" class="node" pointer-events="visible" data-name="SXDTemplate.minFxdBuyPrice">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-1873.05" rx="77.05" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-1868.85" font-family="Times,serif" font-size="14.00" style="">minFxdBuyPrice</text>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.minFxdBuyPrice -->
+<g id="edge70" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.minFxdBuyPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M884.42,-1979.26C901.07,-1974.45 919.73,-1966.87 933.7,-1955.05 953.14,-1938.61 942.4,-1921.67 961.7,-1905.05 967.42,-1900.13 973.97,-1895.93 980.84,-1892.35" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="982.26,-1895.55 989.87,-1888.17 979.32,-1889.19 982.26,-1895.55" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.buySellAdjustment -->
+<g id="edge121" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.buySellAdjustment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M886,-1980.9C902.93,-1976.38 921.37,-1968.57 933.7,-1955.05 967.4,-1918.09 927.36,-1882.42 961.7,-1846.05 964.42,-1843.18 967.44,-1840.6 970.68,-1838.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="972.2,-1841.47 979.05,-1833.39 968.65,-1835.43 972.2,-1841.47" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.totalSupply -->
+<g id="edge119" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M875.17,-2000.71C928.06,-2024.17 1039.4,-2073.81 1132.92,-2117.05 1149.53,-2124.73 1167.7,-2133.31 1183.65,-2140.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1182.08,-2144.04 1192.62,-2145.18 1185.1,-2137.72 1182.08,-2144.04" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;SXDTemplate.latestPrice -->
+<g id="edge117" class="edge" data-name="SXDTemplate.fxdPrice-&gt;SXDTemplate.latestPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M879.6,-1975.77C896.24,-1970.11 916.23,-1962.81 933.7,-1955.05 946.6,-1949.33 948.25,-1944.36 961.7,-1940.05 970,-1937.4 1200.29,-1908.66 1313.38,-1894.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1313.74,-1898.13 1323.23,-1893.43 1312.88,-1891.19 1313.74,-1898.13" style=""/>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;FXD.totalSupply -->
+<g id="edge120" class="edge" data-name="SXDTemplate.fxdPrice-&gt;FXD.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M857.25,-1968.89C877.69,-1939.07 916.87,-1877.11 933.7,-1818.05 939.42,-1797.96 1029.22,-439.24 1044.2,-212.09" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1047.67,-212.56 1044.84,-202.36 1040.69,-212.1 1047.67,-212.56" style=""/>
+</g>
+<!-- price.wadMulUp -->
+<g id="node51" class="node" pointer-events="visible" data-name="price.wadMulUp">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-1590.05" rx="55.05" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-1585.85" font-family="Times,serif" font-size="14.00" style="">wadMulUp</text>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;price.wadMulUp -->
+<g id="edge69" class="edge" data-name="SXDTemplate.fxdPrice-&gt;price.wadMulUp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M856.63,-1968.7C876.2,-1938.6 914.18,-1876.27 933.7,-1818.05 958.46,-1744.2 919.18,-1710.32 961.7,-1645.05 970.91,-1630.92 985.15,-1619.64 999.35,-1611.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1000.96,-1614.18 1007.98,-1606.24 997.54,-1608.07 1000.96,-1614.18" style=""/>
+</g>
+<!-- price.wadMulDown -->
+<g id="node52" class="node" pointer-events="visible" data-name="price.wadMulDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1047.31" cy="-1536.05" rx="66.66" ry="18" style=""/>
+<text text-anchor="middle" x="1047.31" y="-1531.85" font-family="Times,serif" font-size="14.00" style="">wadMulDown</text>
+</g>
+<!-- SXDTemplate.fxdPrice&#45;&gt;price.wadMulDown -->
+<g id="edge71" class="edge" data-name="SXDTemplate.fxdPrice-&gt;price.wadMulDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M856.98,-1968.81C877.03,-1938.87 915.68,-1876.75 933.7,-1818.05 950.43,-1763.56 925.6,-1607.18 961.7,-1563.05 965.64,-1558.24 970.44,-1554.27 975.74,-1551" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="977.13,-1554.22 984.48,-1546.59 973.97,-1547.97 977.13,-1554.22" style=""/>
+</g>
+<!-- SXDTemplate.sxdFromMint&#45;&gt;SXDTemplate.sxdPrice -->
+<g id="edge72" class="edge" data-name="SXDTemplate.sxdFromMint-&gt;SXDTemplate.sxdPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M630.26,-1828.62C658.94,-1823.99 693.96,-1817.64 724.95,-1810.05 748.52,-1804.28 774.28,-1796.35 795.64,-1789.31" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="796.75,-1792.63 805.12,-1786.14 794.53,-1785.99 796.75,-1792.63" style=""/>
+</g>
+<!-- xdcIn.wadDivDown -->
+<g id="node53" class="node" pointer-events="visible" data-name="xdcIn.wadDivDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1505.05" rx="65.43" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1500.85" font-family="Times,serif" font-size="14.00" style="">wadDivDown</text>
+</g>
+<!-- SXDTemplate.sxdFromMint&#45;&gt;xdcIn.wadDivDown -->
+<g id="edge73" class="edge" data-name="SXDTemplate.sxdFromMint-&gt;xdcIn.wadDivDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.33,-1842.33C665.86,-1841.44 702.2,-1834.3 724.95,-1810.05 763.21,-1769.29 723,-1607.26 752.95,-1560.05 762.05,-1545.71 776.38,-1534.52 790.91,-1526.09" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="792.15,-1529.4 799.32,-1521.6 788.85,-1523.22 792.15,-1529.4" style=""/>
+</g>
+<!-- xdcQty0.add -->
+<g id="node54" class="node" pointer-events="visible" data-name="xdcQty0.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1420.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1415.85" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- SXDTemplate.sxdFromMint&#45;&gt;xdcQty0.add -->
+<g id="edge74" class="edge" data-name="SXDTemplate.sxdFromMint-&gt;xdcQty0.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.22,-1842.59C665.92,-1841.82 702.45,-1834.72 724.95,-1810.05 775.3,-1754.87 713.82,-1538.69 752.95,-1475.05 764.98,-1455.48 786.85,-1441.85 805.94,-1433.05" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="807.03,-1436.39 814.87,-1429.25 804.3,-1429.94 807.03,-1436.39" style=""/>
+</g>
+<!-- xdcQty1.wadDivDown -->
+<g id="node58" class="node" pointer-events="visible" data-name="xdcQty1.wadDivDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1119.05" rx="65.43" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1114.85" font-family="Times,serif" font-size="14.00" style="">wadDivDown</text>
+</g>
+<!-- SXDTemplate.sxdFromMint&#45;&gt;xdcQty1.wadDivDown -->
+<g id="edge75" class="edge" data-name="SXDTemplate.sxdFromMint-&gt;xdcQty1.wadDivDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M633.87,-1842.97C665.86,-1842.41 702.78,-1835.38 724.95,-1810.05 773.58,-1754.49 707.69,-1204.4 752.95,-1146.05 757.6,-1140.06 763.53,-1135.36 770.12,-1131.68" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="771.32,-1134.97 778.97,-1127.64 768.42,-1128.61 771.32,-1134.97" style=""/>
+</g>
+<!-- integralFirstPart.wadMulDown -->
+<g id="node60" class="node" pointer-events="visible" data-name="integralFirstPart.wadMulDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1034.05" rx="66.66" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1029.85" font-family="Times,serif" font-size="14.00" style="">wadMulDown</text>
+</g>
+<!-- SXDTemplate.sxdFromMint&#45;&gt;integralFirstPart.wadMulDown -->
+<g id="edge76" class="edge" data-name="SXDTemplate.sxdFromMint-&gt;integralFirstPart.wadMulDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M633.9,-1843C665.9,-1842.45 702.83,-1835.42 724.95,-1810.05 777.65,-1749.64 712.49,-1158.27 752.95,-1089.05 761.37,-1074.66 775.19,-1063.52 789.48,-1055.16" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="791.1,-1058.26 798.27,-1050.47 787.8,-1052.09 791.1,-1058.26" style=""/>
+</g>
+<!-- sxdQty0.wadSquaredDown -->
+<g id="node61" class="node" pointer-events="visible" data-name="sxdQty0.wadSquaredDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-949.05" rx="82.25" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-944.85" font-family="Times,serif" font-size="14.00" style="">wadSquaredDown</text>
+</g>
+<!-- SXDTemplate.sxdFromMint&#45;&gt;sxdQty0.wadSquaredDown -->
+<g id="edge77" class="edge" data-name="SXDTemplate.sxdFromMint-&gt;sxdQty0.wadSquaredDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M633.56,-1843.04C665.66,-1842.55 702.79,-1835.56 724.95,-1810.05 783.72,-1742.41 707.89,-1081.51 752.95,-1004.05 760.82,-990.52 773.48,-979.88 786.83,-971.7" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="788.43,-974.82 795.46,-966.89 785.03,-968.7 788.43,-974.82" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;SXDTemplate.sxdPrice -->
+<g id="edge78" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;SXDTemplate.sxdPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M637.62,-1780.63C682.75,-1778.96 742.18,-1776.76 785.37,-1775.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="785.33,-1778.67 795.2,-1774.8 785.07,-1771.67 785.33,-1778.67" style=""/>
+</g>
+<!-- xdcQty0.sub -->
+<g id="node55" class="node" pointer-events="visible" data-name="xdcQty0.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1366.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1361.85" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;xdcQty0.sub -->
+<g id="edge83" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;xdcQty0.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M637.37,-1780.48C668.34,-1778.42 703.25,-1770.99 724.95,-1747.05 779.29,-1687.11 702.25,-1447.11 752.95,-1384.05 765.21,-1368.81 785.78,-1361.94 804.09,-1359.87" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="804.07,-1363.38 813.86,-1359.34 803.68,-1356.39 804.07,-1363.38" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;xdcQty0.sub -->
+<g id="edge85" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;xdcQty0.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M620.84,-1796.08C655.1,-1798.59 699.27,-1793.38 724.95,-1765.05 779.29,-1705.11 702.25,-1465.11 752.95,-1402.05 765.35,-1386.63 786.25,-1379.78 804.73,-1375.85" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="805.14,-1379.34 814.32,-1374.04 803.84,-1372.46 805.14,-1379.34" style=""/>
+</g>
+<!-- xdcQty0.wadSquaredUp -->
+<g id="node56" class="node" pointer-events="visible" data-name="xdcQty0.wadSquaredUp">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1312.05" rx="70.64" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1307.85" font-family="Times,serif" font-size="14.00" style="">wadSquaredUp</text>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;xdcQty0.wadSquaredUp -->
+<g id="edge84" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;xdcQty0.wadSquaredUp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M635.15,-1788.72C666.71,-1787.9 702.83,-1780.7 724.95,-1756.05 786.98,-1686.93 695.11,-1411.72 752.95,-1339.05 757.07,-1333.88 762.15,-1329.66 767.78,-1326.24" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="769.06,-1329.51 776.46,-1321.93 765.95,-1323.24 769.06,-1329.51" style=""/>
+</g>
+<!-- sxdQty0.sub -->
+<g id="node62" class="node" pointer-events="visible" data-name="sxdQty0.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-895.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-890.85" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;sxdQty0.sub -->
+<g id="edge79" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;sxdQty0.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.72,-1789.03C666.56,-1788.39 703.07,-1781.27 724.95,-1756.05 785.72,-1686.02 696.43,-995.56 752.95,-922.05 764.5,-907.03 784.14,-900.1 802.08,-897" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.52,-900.47 811.99,-895.72 801.62,-893.53 802.52,-900.47" style=""/>
+</g>
+<!-- sxdPrice0.wadMulDown -->
+<g id="node63" class="node" pointer-events="visible" data-name="sxdPrice0.wadMulDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-810.05" rx="66.66" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-805.85" font-family="Times,serif" font-size="14.00" style="">wadMulDown</text>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;sxdPrice0.wadMulDown -->
+<g id="edge80" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;sxdPrice0.wadMulDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.74,-1789.05C666.59,-1788.42 703.1,-1781.29 724.95,-1756.05 789.78,-1681.17 703.28,-950.75 752.95,-865.05 761.31,-850.63 775.12,-839.48 789.41,-831.12" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="791.03,-834.22 798.21,-826.43 787.74,-828.05 791.03,-834.22" style=""/>
+</g>
+<!-- WAD.sub -->
+<g id="node64" class="node" pointer-events="visible" data-name="WAD.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1228.76" cy="-1107.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="1228.76" y="-1102.85" font-family="Times,serif" font-size="14.00" style="">sub</text>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;WAD.sub -->
+<g id="edge81" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;WAD.sub">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.77,-1789.08C666.62,-1788.45 703.13,-1781.32 724.95,-1756.05 795.85,-1673.94 675.14,-855.66 752.95,-780.05 781.76,-752.06 897.01,-763.71 933.7,-780.05 1074.49,-842.79 1176.09,-1009.93 1212.76,-1077.8" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1209.46,-1079.04 1217.24,-1086.23 1215.64,-1075.76 1209.46,-1079.04" style=""/>
+</g>
+<!-- sxdQty1.wadDivUp -->
+<g id="node66" class="node" pointer-events="visible" data-name="sxdQty1.wadDivUp">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-695.05" rx="53.33" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-690.85" font-family="Times,serif" font-size="14.00" style="">wadDivUp</text>
+</g>
+<!-- SXDTemplate.xdcFromBurn&#45;&gt;sxdQty1.wadDivUp -->
+<g id="edge82" class="edge" data-name="SXDTemplate.xdcFromBurn-&gt;sxdQty1.wadDivUp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.78,-1789.08C666.63,-1788.46 703.14,-1781.33 724.95,-1756.05 797.99,-1671.39 697.05,-846.9 752.95,-750.05 761.96,-734.44 777.37,-722.67 792.87,-714.12" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="794.04,-717.45 801.39,-709.81 790.89,-711.2 794.04,-717.45" style=""/>
+</g>
+<!-- SXDTemplate.fxdFromFund&#45;&gt;SXDTemplate.fxdPrice -->
+<g id="edge86" class="edge" data-name="SXDTemplate.fxdFromFund-&gt;SXDTemplate.fxdPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M615.8,-1905.5C646.42,-1915.74 688.29,-1929.95 724.95,-1943.05 748.96,-1951.64 775.57,-1961.58 797.38,-1969.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="795.86,-1973.01 806.46,-1973.29 798.35,-1966.46 795.86,-1973.01" style=""/>
+</g>
+<!-- SXDTemplate.fxdFromFund&#45;&gt;xdcIn.wadDivDown -->
+<g id="edge87" class="edge" data-name="SXDTemplate.fxdFromFund-&gt;xdcIn.wadDivDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.91,-1896.5C666.4,-1895.61 702.53,-1888.42 724.95,-1864.05 770.89,-1814.13 717.17,-1617.7 752.95,-1560.05 761.91,-1545.62 776.2,-1534.41 790.74,-1525.98" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="791.98,-1529.29 799.16,-1521.5 788.69,-1523.11 791.98,-1529.29" style=""/>
+</g>
+<!-- SXDTemplate.fxdFromFund&#45;&gt;xdcQty0.add -->
+<g id="edge88" class="edge" data-name="SXDTemplate.fxdFromFund-&gt;xdcQty0.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.72,-1896.69C666.36,-1895.9 702.68,-1888.75 724.95,-1864.05 782.99,-1799.69 707.98,-1549.14 752.95,-1475.05 764.87,-1455.41 786.73,-1441.78 805.85,-1432.99" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="806.95,-1436.33 814.8,-1429.21 804.23,-1429.88 806.95,-1436.33" style=""/>
+</g>
+<!-- xdcQty0.mul -->
+<g id="node57" class="node" pointer-events="visible" data-name="xdcQty0.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1258.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1253.85" font-family="Times,serif" font-size="14.00" style="">mul</text>
+</g>
+<!-- SXDTemplate.fxdFromFund&#45;&gt;xdcQty0.mul -->
+<g id="edge89" class="edge" data-name="SXDTemplate.fxdFromFund-&gt;xdcQty0.mul">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.19,-1896.91C666.07,-1896.28 702.8,-1889.21 724.95,-1864.05 767.52,-1815.72 713.31,-1335.82 752.95,-1285.05 764.61,-1270.12 784.26,-1263.19 802.17,-1260.08" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.6,-1263.55 812.07,-1258.78 801.7,-1256.61 802.6,-1263.55" style=""/>
+</g>
+<!-- xdcQty1.wadMulUp -->
+<g id="node59" class="node" pointer-events="visible" data-name="xdcQty1.wadMulUp">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-1173.05" rx="55.05" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-1168.85" font-family="Times,serif" font-size="14.00" style="">wadMulUp</text>
+</g>
+<!-- SXDTemplate.fxdFromFund&#45;&gt;xdcQty1.wadMulUp -->
+<g id="edge90" class="edge" data-name="SXDTemplate.fxdFromFund-&gt;xdcQty1.wadMulUp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M634.23,-1896.95C666.13,-1896.33 702.85,-1889.26 724.95,-1864.05 771.59,-1810.87 717.1,-1289.03 752.95,-1228.05 761.93,-1212.79 776.98,-1201.18 792.19,-1192.66" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="793.76,-1195.79 801.06,-1188.12 790.57,-1189.56 793.76,-1195.79" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;SXDTemplate.fxdPrice -->
+<g id="edge92" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;SXDTemplate.fxdPrice">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M647.14,-1727.26C674.28,-1730.22 703.51,-1738.05 724.95,-1756.05 752.84,-1779.47 737.53,-1800.07 752.95,-1833.05 774.08,-1878.25 804.09,-1927.66 823.38,-1958.01" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="820.23,-1959.59 828.58,-1966.12 826.13,-1955.81 820.23,-1959.59" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;SXDTemplate.buySellAdjustment -->
+<g id="edge93" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;SXDTemplate.buySellAdjustment">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M647.22,-1728.22C674.06,-1731.34 703.06,-1739.03 724.95,-1756.05 748.82,-1774.61 727.58,-1801.61 752.95,-1818.05 821.23,-1862.3 918.52,-1851.72 982.03,-1837.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="982.78,-1840.92 991.71,-1835.22 981.18,-1834.11 982.78,-1840.92" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;FXD.totalSupply -->
+<g id="edge91" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;FXD.totalSupply">
+
+<path fill="none" stroke="white" stroke-width="2" d="M644.15,-1734.72C673.57,-1732.92 705.26,-1724.89 724.95,-1702.05 800.21,-1614.75 677.24,-751.96 752.95,-665.05 806.44,-603.65 873.91,-690.34 933.7,-635.05 996.7,-576.79 1032.32,-305.72 1042.92,-212.02" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1046.38,-212.62 1044,-202.29 1039.42,-211.85 1046.38,-212.62" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;xdcQty0.add -->
+<g id="edge97" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;xdcQty0.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M645.09,-1733.66C673.78,-1731.47 704.66,-1723.44 724.95,-1702.05 794.93,-1628.32 698.01,-1560.59 752.95,-1475.05 765.31,-1455.81 787.03,-1442.22 805.96,-1433.36" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="807.31,-1436.59 815.1,-1429.41 804.53,-1430.17 807.31,-1436.59" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;xdcQty0.mul -->
+<g id="edge95" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;xdcQty0.mul">
+
+<path fill="none" stroke="white" stroke-width="2" d="M644.5,-1734.29C673.63,-1732.33 704.99,-1724.3 724.95,-1702.05 786.98,-1632.93 695.11,-1357.72 752.95,-1285.05 764.75,-1270.23 784.41,-1263.31 802.3,-1260.17" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.71,-1263.65 812.16,-1258.87 801.79,-1256.71 802.71,-1263.65" style=""/>
+</g>
+<!-- fxdIn.wadMulDown -->
+<g id="node67" class="node" pointer-events="visible" data-name="fxdIn.wadMulDown">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-580.05" rx="66.66" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-575.85" font-family="Times,serif" font-size="14.00" style="">wadMulDown</text>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;fxdIn.wadMulDown -->
+<g id="edge94" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;fxdIn.wadMulDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M646.53,-1726.26C675.27,-1723.49 705.8,-1715.29 724.95,-1693.05 763.65,-1648.12 723.35,-677.43 752.95,-626.05 759.23,-615.16 768.62,-606.14 778.98,-598.95" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="780.8,-601.95 787.48,-593.72 777.13,-595.99 780.8,-601.95" style=""/>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;fxdIn.wadMulDown -->
+<g id="edge96" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;fxdIn.wadMulDown">
+
+<path fill="none" stroke="white" stroke-width="2" d="M625.32,-1742.74C659.14,-1744.73 700.97,-1738.9 724.95,-1711.05 763.65,-1666.12 723.35,-695.43 752.95,-644.05 763.54,-625.67 783,-612.62 801.06,-603.02" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="802.57,-606.18 809.92,-598.55 799.42,-599.93 802.57,-606.18" style=""/>
+</g>
+<!-- fxdIn.wadMulUp -->
+<g id="node68" class="node" pointer-events="visible" data-name="fxdIn.wadMulUp">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="843.32" cy="-526.05" rx="55.05" ry="18" style=""/>
+<text text-anchor="middle" x="843.32" y="-521.85" font-family="Times,serif" font-size="14.00" style="">wadMulUp</text>
+</g>
+<!-- SXDTemplate.xdcFromDefund&#45;&gt;fxdIn.wadMulUp -->
+<g id="edge98" class="edge" data-name="SXDTemplate.xdcFromDefund-&gt;fxdIn.wadMulUp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M643.78,-1734.77C673.32,-1733.02 705.2,-1725.02 724.95,-1702.05 766.58,-1653.63 714.26,-603.85 752.95,-553.05 759.1,-544.98 767.58,-539.25 776.89,-535.18" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="777.9,-538.54 786.15,-531.89 775.56,-531.94 777.9,-538.54" style=""/>
+</g>
+<!-- numHalvings.wadHalfExp -->
+<g id="node69" class="node" pointer-events="visible" data-name="numHalvings.wadHalfExp">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1228.76" cy="-1590.05" rx="59.68" ry="18" style=""/>
+<text text-anchor="middle" x="1228.76" y="-1585.85" font-family="Times,serif" font-size="14.00" style="">wadHalfExp</text>
+</g>
+<!-- SXDTemplate.minFxdBuyPrice&#45;&gt;numHalvings.wadHalfExp -->
+<g id="edge99" class="edge" data-name="SXDTemplate.minFxdBuyPrice-&gt;numHalvings.wadHalfExp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1111.51,-1861.86C1119.66,-1858.02 1127.15,-1852.89 1132.92,-1846.05 1191.03,-1777.08 1116.86,-1723.76 1160.92,-1645.05 1167.52,-1633.25 1177.75,-1622.95 1188.23,-1614.55" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1190.29,-1617.38 1196.24,-1608.61 1186.12,-1611.76 1190.29,-1617.38" style=""/>
+</g>
+<!-- WAD.add -->
+<g id="node65" class="node" pointer-events="visible" data-name="WAD.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1228.76" cy="-1161.05" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="1228.76" y="-1156.85" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- SXDTemplate.buySellAdjustment&#45;&gt;WAD.add -->
+<g id="edge101" class="edge" data-name="SXDTemplate.buySellAdjustment-&gt;WAD.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1059.67,-1799.92C1077.79,-1768.61 1113.19,-1703.98 1132.92,-1645.05 1188.18,-1479.99 1215.48,-1271.86 1224.38,-1193.16" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1227.83,-1193.76 1225.45,-1183.43 1220.88,-1192.99 1227.83,-1193.76" style=""/>
+</g>
+<!-- SXDTemplate.buySellAdjustment&#45;&gt;numHalvings.wadHalfExp -->
+<g id="edge100" class="edge" data-name="SXDTemplate.buySellAdjustment-&gt;numHalvings.wadHalfExp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M1058.11,-1799.97C1075.84,-1766.46 1115.65,-1695.81 1160.92,-1645.05 1170.39,-1634.43 1182.01,-1624.14 1192.88,-1615.39" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1194.86,-1618.28 1200.6,-1609.37 1190.56,-1612.76 1194.86,-1618.28" style=""/>
+</g>
+<!-- key -->
+<g id="node70" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="159.1,-2574.05 29.1,-2574.05 29.1,-2486.05 159.1,-2486.05 159.1,-2574.05" style=""/>
+<text text-anchor="start" x="78.74" y="-2555.45" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="74.85" y="-2535.45" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="52.3" y="-2515.45" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="38.7" y="-2495.45" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node71" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="321.86,-2574.05 267.86,-2574.05 267.86,-2486.05 321.86,-2486.05 321.86,-2574.05" style=""/>
+<text text-anchor="start" x="284.86" y="-2555.45" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="284.86" y="-2535.45" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="282.86,-2510.05 282.86,-2530.05 307.86,-2530.05 307.86,-2510.05 282.86,-2510.05" style=""/>
+<text text-anchor="start" x="284.86" y="-2515.45" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="284.86,-2492.05 284.86,-2508.05 305.86,-2508.05 305.86,-2492.05 284.86,-2492.05" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge122" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M152.1,-2560.05C205.26,-2560.05 221.67,-2560.05 269.09,-2560.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="268.83,-2563.55 278.83,-2560.05 268.83,-2556.55 268.83,-2563.55" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge123" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M152.1,-2540.05C205.26,-2540.05 221.67,-2540.05 269.09,-2540.05" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="268.83,-2543.55 278.83,-2540.05 268.83,-2536.55 268.83,-2543.55" style=""/>
+</g>
+</g>
+</svg>

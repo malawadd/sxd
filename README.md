@@ -1,6 +1,8 @@
   `this is an in-progess project please refer to main branch for last updates`
 <h1 align="center"> Stable XDC </h1>
-<h4 align="center"> a minimalist Stable XDC token  </h4>
+<h4 align="center"> a minimalist Stable XDC token </h4>
+
+![screenshot](sxdtemplate.png)
 
 <p align="center">
   <a href="#key-features">Introduction</a> •
