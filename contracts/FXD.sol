@@ -36,11 +36,11 @@ contract FXD is ERC20Permit, Ownable {
      * If using `transfer`/`transferFrom` as `defund`, and if decimals 8 to 11 (included) of the amount transferred received
      * are `0000` then the next 7 will be parsed as the maximum Fxd price accepted, with 5 digits before and 2 digits after the comma.
      */
-    function transfer(
+    function _transfer(
         address sender,
         address recipient,
         uint256 amount
-    ) internal {
+    ) internal override {
         if (
             recipient == address(this) ||
             recipient == address(sxd) ||
