@@ -5,10 +5,11 @@ import "./SettableOracle.sol";
 import "../SXD.sol";
 
 /**
- * @title MockMedianOracl
+ * @title MockMedianOracleSXD
+ * @author Jacob Eliosoff (@jacob-eliosoff)
  * @notice Like SXD (so, also inheriting MedianOracle), but allows latestPrice() to be set for testing purposes
  */
-contract MockMedianOracle is SXD, SettableOracle {
+contract MockMedianOracleSXD is SXD, SettableOracle {
     uint256 private constant NUM_UNISWAP_PAIRS = 3;
 
     uint256 private savedPrice;
@@ -38,13 +39,18 @@ contract MockMedianOracle is SXD, SettableOracle {
 
     function cacheLatestPrice()
         public
-        override(Oracle, USM)
+        override(Oracle, SXD)
         returns (uint256 price)
     {
         price = (savedPrice != 0) ? savedPrice : super.cacheLatestPrice();
     }
 
-    function latestPrice() public view override returns (uint256 price) {
+    function latestPrice()
+        public
+        view
+        override(MedianOracle, Oracle)
+        returns (uint256 price)
+    {
         price = (savedPrice != 0) ? savedPrice : super.latestPrice();
     }
 }

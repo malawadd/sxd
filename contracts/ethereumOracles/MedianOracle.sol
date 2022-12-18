@@ -9,7 +9,7 @@ import "./UniswapV2TWAPOracle.sol";
 contract MedianOracle is
     ChainlinkOracle,
     CompoundOpenOracle,
-    OurUniswapV2TWAPOracle
+    UniswapV2TWAPOracle
 {
     using SafeMath for uint256;
 
@@ -26,7 +26,7 @@ contract MedianOracle is
         public
         ChainlinkOracle(chainlinkAggregator)
         CompoundOpenOracle(compoundView)
-        OurUniswapV2TWAPOracle(
+        UniswapV2TWAPOracle(
             uniswapPair,
             uniswapToken0Decimals,
             uniswapToken1Decimals,
@@ -37,26 +37,27 @@ contract MedianOracle is
     function latestPrice()
         public
         view
-        override(ChainlinkOracle, CompoundOpenOracle, OurUniswapV2TWAPOracle)
+        virtual
+        override(ChainlinkOracle, CompoundOpenOracle, UniswapV2TWAPOracle)
         returns (uint256 price)
     {
         price = median(
             ChainlinkOracle.latestPrice(),
             CompoundOpenOracle.latestPrice(),
-            OurUniswapV2TWAPOracle.latestPrice()
+            UniswapV2TWAPOracle.latestPrice()
         );
     }
 
     function cacheLatestPrice()
         public
         virtual
-        override(Oracle, OurUniswapV2TWAPOracle)
+        override(Oracle, UniswapV2TWAPOracle)
         returns (uint256 price)
     {
         price = median(
             ChainlinkOracle.latestPrice(), // Not ideal to call latestPrice() on two of these
             CompoundOpenOracle.latestPrice(), // and cacheLatestPrice() on one...  But works, and
-            OurUniswapV2TWAPOracle.cacheLatestPrice()
+            UniswapV2TWAPOracle.cacheLatestPrice()
         ); // inheriting them like this saves significant gas
     }
 

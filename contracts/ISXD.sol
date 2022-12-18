@@ -26,7 +26,7 @@ interface ISXD {
         uint256 minXdcOut
     ) external returns (uint256);
 
-    function defundFromFxd(
+    function defundFromFXD(
         address from,
         address payable to,
         uint256 fxdToBurn,

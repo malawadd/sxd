@@ -143,7 +143,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
         address payable to,
         uint256 fxdToBurn,
         uint256 minXdcOut
-    ) external override returns (uint256 xdcOut) {
+    ) external returns (uint256 xdcOut) {
         require(msg.sender == address(fxd), "Restricted to FXD");
         xdcOut = _defundFxd(from, to, fxdToBurn, minXdcOut);
     }
@@ -162,11 +162,11 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
      * If using `transfer`/`transferFrom` as `burn`, and if decimals 8 to 11 (included) of the amount transferred received
      * are `0000` then the next 7 will be parsed as the maximum SXD price accepted, with 5 digits before and 2 digits after the comma.
      */
-    function _transfer(
+    function transfer(
         address sender,
         address recipient,
         uint256 amount
-    ) internal override {
+    ) internal {
         if (
             recipient == address(this) ||
             recipient == address(fxd) ||
