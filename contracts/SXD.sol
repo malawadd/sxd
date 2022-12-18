@@ -1,17 +1,11 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 pragma solidity ^0.8.17;
 
-import "./SettableOracle.sol";
-import "../SXD.sol";
+import "./SXDTemplate.sol";
+import "./ethereumOracles/MedianOracle.sol";
 
-/**
- * @title MockMedianOracl
- * @notice Like SXD (so, also inheriting MedianOracle), but allows latestPrice() to be set for testing purposes
- */
-contract MockMedianOracle is SXD, SettableOracle {
+contract SXD is SXDTemplate, MedianOracle {
     uint256 private constant NUM_UNISWAP_PAIRS = 3;
-
-    uint256 private savedPrice;
 
     constructor(
         AggregatorV3Interface chainlinkAggregator,
@@ -22,7 +16,8 @@ contract MockMedianOracle is SXD, SettableOracle {
         bool uniswapTokensInReverseOrder
     )
         public
-        SXD(
+        SXDTemplate()
+        MedianOracle(
             chainlinkAggregator,
             compoundView,
             uniswapPair,
@@ -32,19 +27,12 @@ contract MockMedianOracle is SXD, SettableOracle {
         )
     {}
 
-    function setPrice(uint256 p) public override {
-        savedPrice = p;
-    }
-
     function cacheLatestPrice()
         public
-        override(Oracle, USM)
+        virtual
+        override(Oracle, MedianOracle)
         returns (uint256 price)
     {
-        price = (savedPrice != 0) ? savedPrice : super.cacheLatestPrice();
-    }
-
-    function latestPrice() public view override returns (uint256 price) {
-        price = (savedPrice != 0) ? savedPrice : super.latestPrice();
+        price = super.cacheLatestPrice();
     }
 }
