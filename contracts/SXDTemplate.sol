@@ -91,7 +91,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
         onlyHolderOrDelegate(from, "Only holder or delegate")
         returns (uint256 xdcOut)
     {
-        xdcOut = _burnSdx(from, to, sxdToBurn, minXdcOut);
+        xdcOut = _burnSXD(from, to, sxdToBurn, minXdcOut);
     }
 
     /**
@@ -172,7 +172,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
             recipient == address(fxd) ||
             recipient == address(0)
         ) {
-            _burnSdx(
+            _burnSXD(
                 sender,
                 payable(sender),
                 amount,
@@ -202,7 +202,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
             xdcInPool,
             sxdTotalSupply
         );
-        sxdOut = sdxFromMint(xdcSxdPrice, msg.value, xdcInPool, sxdTotalSupply);
+        sxdOut = sxdFromMint(xdcSxdPrice, msg.value, xdcInPool, sxdTotalSupply);
         require(sxdOut >= minSxdOut, "Limit not reached");
 
         // 3. Update state and mint the user's new SXD:
@@ -219,7 +219,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
         _mint(to, sxdOut);
     }
 
-    function _burnSdx(
+    function _burnSXD(
         address from,
         address payable to,
         uint256 sxdToBurn,
@@ -480,7 +480,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
      * @notice Calculate the *marginal* price of SXD (in XDC terms) - that is, of the next unit, before the price start sliding.
      * @return price SXD price in XDC terms
      */
-    function sdxPrice(Side side, uint256 xdcSxdPrice)
+    function sxdPrice(Side side, uint256 xdcSxdPrice)
         internal
         view
         returns (uint256 price)
@@ -548,7 +548,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
      * @param xdcIn The amount of XDC passed to mint()
      * @return sxdOut The amount of SXD to receive in exchange
      */
-    function sdxFromMint(
+    function sxdFromMint(
         uint256 xdcSxdPrice,
         uint256 xdcIn,
         uint256 xdcQty0,
@@ -558,10 +558,10 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
         // factor k (here > 1), XDC price changes by factor 1/k**2 (ie, SXD price, in XDC terms, changes by factor k**2).
         // (Earlier versions of this logic scaled XDC price based on change in xdcPool(), or change in xdcPool()**2: the latter
         // gives simpler math - no cbrt() - but doesn't let mint/burn offset fund/defund, which debtRatio()**2 nicely does.)
-        uint256 sdxPrice0 = sdxPrice(Side.Buy, xdcSxdPrice);
+        uint256 sxdPrice0 = sxdPrice(Side.Buy, xdcSxdPrice);
         if (sxdQty0 == 0) {
             // No SXD in the system, so debtRatio() == 0 which breaks the integral below - skip sliding-prices this time:
-            sxdOut = xdcIn.wadDivDown(sdxPrice0);
+            sxdOut = xdcIn.wadDivDown(sxdPrice0);
         } else {
             uint256 xdcQty1 = xdcQty0.add(xdcIn);
 
@@ -572,7 +572,7 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
                 .wadCubedDown()
                 .sub(WAD)
                 .mul(xdcQty0)
-                .div(sdxPrice0)
+                .div(sxdPrice0)
                 .add(sxdQty0);
             sxdOut = integralFirstPart
                 .wadMulDown(sxdQty0.wadSquaredDown())
@@ -593,13 +593,13 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
         uint256 sxdQty0
     ) internal view returns (uint256 xdcOut) {
         // Burn SXD at a sliding-down SXD price (ie, a sliding-up XDC price):
-        uint256 sdxPrice0 = sdxPrice(Side.Sell, xdcSxdPrice);
+        uint256 sxdPrice0 = sxdPrice(Side.Sell, xdcSxdPrice);
         uint256 sxdQty1 = sxdQty0.sub(sxdIn);
 
         // Math: this is an integral - sum of all SXD burned at a sliding price.  Follows the same mathematical invariant as
         // above: if debtRatio() *= k (here, k < 1), XDC price *= 1/k**2, ie, SXD price in XDC terms *= k**2.
         // e_0 - e = e_0 - (e_0**2 * (e_0 - usp_0 * u_0 * (1 - (u / u_0)**3)))**(1/3)
-        uint256 integralFirstPart = sdxPrice0.wadMulDown(sxdQty0).wadMulDown(
+        uint256 integralFirstPart = sxdPrice0.wadMulDown(sxdQty0).wadMulDown(
             WAD.sub(sxdQty1.wadDivUp(sxdQty0).wadCubedUp())
         );
         xdcOut = xdcQty0.sub(
@@ -768,8 +768,8 @@ abstract contract SXDTemplate is ISXD, Oracle, ERC20Permit, Delegable {
      * @notice Calculate the *marginal* price of SXD (in XDC terms) - that is, of the next unit, before the price start sliding.
      * @return price SXD price in XDC terms
      */
-    function sdxPrice(Side side) external view returns (uint256 price) {
-        price = sdxPrice(side, latestPrice());
+    function sxdPrice(Side side) external view returns (uint256 price) {
+        price = sxdPrice(side, latestPrice());
     }
 
     /**
