@@ -53,16 +53,27 @@ async function main() {
   //   `usdcXdcPair deployed to ${usdcXdcPair.address}`
   // );
 
-  //SXD//
-  const SXD = await hre.ethers.getContractFactory("SXD");
-  const sxd = await SXD.deploy('20000');
-    await sxd.deployed();
+  // //SXD//
+  // const SXD = await hre.ethers.getContractFactory("SXD");
+  // const sxd = await SXD.deploy('20000');
+  //   await sxd.deployed();
   
-  const sxdAddress = sxd.address
+  // const sxdAddress = sxd.address
 
-  console.log(
-    `sxd deployed to ${sxd.address}`
-  );
+  // console.log(
+  //   `sxd deployed to ${sxd.address}`
+  // );
+
+    //SXD//
+    const FXD = await hre.ethers.getContractFactory("FXD");
+    const fxd = await FXD.deploy('0xaaa17A76C38A071a4EFC0788a892FB0146BA36eA');
+      await fxd.deployed();
+    
+    const fxdAddress = fxd.address
+  
+    console.log(
+      `fxd deployed to ${fxd.address}`
+    );
   
 }
 //  //SXD//

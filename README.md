@@ -59,9 +59,8 @@ SXD is released on the XDC mainnet and **I do not recoomend** anyone to use it i
 * Oracle aggregator : [0xD0a999DB766c1a41Db113f725a851eb3ea6A2b3a](https://xdcscan.io/address/xdcd0a999db766c1a41db113f725a851eb3ea6a2b3a#transactions)
 * Oracle anchoredView : [0x7771117a5171B643C0aDaEfa863703ac929c2Ccf](https://xdcscan.io/address/xdc7771117a5171b643c0adaefa863703ac929c2ccf#transactions)
 * Oracle oraclePair : [0x532C88424404a10A41A1a3bbD6016Aa0b27c909D](https://xdcscan.io/address/xdc532c88424404a10a41a1a3bbd6016aa0b27c909d#transactions)
-* Oracle 4 :
-* SXD : 
-* FXD:
+* SXD : [0xaaa17A76C38A071a4EFC0788a892FB0146BA36eA](https://xdcscan.io/address/xdcaaa17a76c38a071a4efc0788a892fb0146ba36ea#transactions)
+* FXD:[0x5AEeDc64647270e8a84aDC95A532699F5A3F93B1](https://xdcscan.io/address/xdc5aeedc64647270e8a84adc95a532699f5a3f93b1#transactions)
 
 ## Future work:
 
